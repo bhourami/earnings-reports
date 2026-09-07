@@ -9,7 +9,11 @@ paper pot is notional.
 
 - `current-earnings-opportunity-screen.md` — the latest weekly screen
 - `<date>.md` — the analyst reconciliation report for that run
-- `requests/*-portfolio-review.md` — completed, redacted portfolio reviews
+- `requests/<id>-<ticker>.md` — the result of a company-check request
+
+Portfolio reviews are **never published here**. They describe named people's
+accounts and holdings, and no redaction of figures makes that suitable for a
+public repository.
 
 Two independent analysts, Claude Code and Codex CLI, underwrite each event
 blind from an identical frozen evidence pack and seal their decisions before
@@ -18,7 +22,7 @@ methodology, ledger and decision seals stay private; this repository holds
 only the finished reports. Portfolio quantities, costs, cash and market values
 remain in the private frozen pack and are not published.
 
-Last published 2026-09-07T10:16:29.196137+00:00.
+Last published 2026-09-07T10:17:13.207274+00:00.
 
 ---
 
