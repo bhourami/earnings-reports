@@ -1,27 +1,29 @@
 ---
-name: Company check
-about: Ask the pipeline to research a company. This does not create a trade.
-title: "Company check: TICKER"
+name: Company research request
+about: Ask the pipeline to research one company
+title: "Research request: "
 labels: request
 ---
 
-ticker: TICKER
+Fill in the fields below. Everything else on this page is ignored.
+
+ticker: 
 company: 
 requested_by: chatgpt_review
 request_type: company_check
 note: 
 
 <!--
-Keep the lines above as `key: value`. Anything else in this issue is ignored.
+requested_by must be chatgpt_review or owner. The analysts may not file
+requests: an analyst asking the pipeline to look at something would blur a
+request with a judgement.
 
-A request asks the pipeline to look at a company under the frozen
-methodology. It carries no classification, no allocation and no authority to
-trade, and an issue containing one is refused. The company is still tested
-against the mechanical universe rules, still needs verified announcement
-timing, and stays at £0 if any critical input is blocked.
+A request asks the pipeline to research a company. It carries no
+classification, no allocation and no authority to trade, it cannot alter the
+ledger, and it cannot skip a methodology gate. Fields such as classification,
+allocation, size_gbp, buy, sell or position are refused outright rather than
+stored -- a request asks for research, it does not set the outcome.
 
-requested_by must be chatgpt_review or owner. An analyst may not file a
-request: that would blur a request with a judgement.
-
-Company checks only. Portfolio reviews are never submitted or published here.
+Portfolio reviews cannot be filed here. They contain quantities, costs and
+market values, and go through a private local intake instead.
 -->
