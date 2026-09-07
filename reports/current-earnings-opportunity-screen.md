@@ -2,7 +2,7 @@
 
 # All research — week of 2026-09-14
 
-Generated: 2026-09-07T17:44:50.895835+00:00
+Generated: 2026-09-07T18:19:41.221592+00:00
 
 > **Paper research only. This is not a frozen universe, trade instruction, or investment recommendation.**
 > Calendar pages are discovery sources. Announcement timing must be verified from the company release or IR page before any classification can be locked.
@@ -63,13 +63,18 @@ These names passed market cap and ADTV. They are research priorities, **not** Ta
 
 One answer per company. `TAKE` means a paper position only and requires both reviewers to agree on the funded class and exact size. A stable disagreement is shown plainly and means `NO POSITION` rather than forced agreement.
 
-No completed Claude–Codex debate exists for this week's queue yet.
+| Ticker | Decision | Size | Claude risk | Codex risk | Agreement or exact disagreement |
+|---|---|---:|---:|---:|---|
+| KMTS | NO POSITION | £0 | not_assessable | not_assessable | AGREED: NO POSITION — Unscreenable £0. Claude risk not_assessable; Codex risk not_assessable. Claude: Holding Unscreenable/£0, now six consecutive converged exchanges with Codex. No new evidence surfaced this turn on either side; ChartMill (403 to both underwriters), TipRanks (page-level dateModified confirmed not linked to the specific estimate cell), TradingView, StockAnalysis, Investing.com, SeekingAlpha and Zacks were all exhausted across nine prior exchanges without a source tying a stated as-of date to the specific Q1 FY27 (qtr ended 2026-07-31) revenue/EPS estimate. The underlying opportunity remains credible on the merits -- FY26 revenue +59%, gross margin to 54.8%, $262.2M liquidity, a sequentially modest-looking $29.01M revenue bar against ~50% YoY growth already priced in -- and would likely clear the £250 Speculative floor once that single gap closes. Section 10 forbids funding until then. Neither underwriter has a further productive lead; the debate is settled at Unscreenable/£0. \| Codex: Remain Unscreenable/£0. Rapid growth, improving margins and liquidity support a credible revenue-surprise thesis. Against it, widening EBITDA losses and demanding valuation leave durable cash generation unproven. The previously established price retreat suggests some disappointment is reflected, but the quoted hurdle already expects approximately 50% annual growth. Section 10 prevents even the £250 Speculative floor because consensus vintage remains unvalidated. Capture audit exited 0: 'OK zacks-2983146-2026-09-01', 'OK zacks-2983609-2026-09-02', 'all 2 captures intact' with the sources path. Count matches two capture files plus manifest; macOS temporary-directory/cache-permission diagnostics also printed. Both captures concern CASY; neither was relied upon. |
 
 ## Claude and Codex research inputs
 
 These are attributed second opinions, not verified facts or locked classifications. The methodology and official evidence remain controlling.
 
-No agent reviews have been submitted for this week yet.
+| Agent | Ticker | View | Suggested class | Event risk | Risk drivers | Reviewed | Summary |
+|---|---|---|---|---:|---|---|---|
+| Claude | KMTS | insufficient_evidence | Unscreenable | not_assessable | Deciding-period consensus vintage cannot be pinned to a dated, estimate-linked source despite exhaustive checking across seven-plus providers by both underwriters over ten exchanges.; Demanding forward-sales valuation (~9-11x FY27 revenue guide of $137M) on a still GAAP- and adjusted-EBITDA-loss-making microcap.; Thin analyst base (7 contributors) and high realized volatility (52-wk range >2x) would make event risk elevated once the consensus vintage is validated.; Liquidity ($262.2M cash+investments plus a partly-conditional $200M facility) mitigates near-term financing risk but does not resolve the consensus-validation gap. | 2026-09-07T18:00:55.265198+00:00 | Holding Unscreenable/£0, now six consecutive converged exchanges with Codex. No new evidence surfaced this turn on either side; ChartMill (403 to both underwriters), TipRanks (page-level dateModified confirmed not linked to the specific estimate cell), TradingView, StockAnalysis, Investing.com, SeekingAlpha and Zacks were all exhausted across nine prior exchanges without a source tying a stated as-of date to the specific Q1 FY27 (qtr ended 2026-07-31) revenue/EPS estimate. The underlying opportunity remains credible on the merits -- FY26 revenue +59%, gross margin to 54.8%, $262.2M liquidity, a sequentially modest-looking $29.01M revenue bar against ~50% YoY growth already priced in -- and would likely clear the £250 Speculative floor once that single gap closes. Section 10 forbids funding until then. Neither underwriter has a further productive lead; the debate is settled at Unscreenable/£0. |
+| Codex | KMTS | insufficient_evidence | Unscreenable | not_assessable | Required quarterly consensus vintage remains unvalidated.; Demanding growth expectations and valuation.; Widening EBITDA losses despite improving gross margins; liquidity mitigates financing risk. | 2026-09-07T18:00:05.851681+00:00 | Remain Unscreenable/£0. Rapid growth, improving margins and liquidity support a credible revenue-surprise thesis. Against it, widening EBITDA losses and demanding valuation leave durable cash generation unproven. The previously established price retreat suggests some disappointment is reflected, but the quoted hurdle already expects approximately 50% annual growth. Section 10 prevents even the £250 Speculative floor because consensus vintage remains unvalidated. Capture audit exited 0: 'OK zacks-2983146-2026-09-01', 'OK zacks-2983609-2026-09-02', 'all 2 captures intact' with the sources path. Count matches two capture files plus manifest; macOS temporary-directory/cache-permission diagnostics also printed. Both captures concern CASY; neither was relied upon. |
 
 ## Full candidate table
 
@@ -77,12 +82,12 @@ No agent reviews have been submitted for this week yet.
 |---|---|---|---|---|---|---:|---:|---|---|
 | 2026-09-14 | UK | BIG | Big Technologies plc | interim_results | time_not_supplied | £294.2m | N/A | `excluded_market_cap` | £0 — not classified |
 | 2026-09-14 | UK | DATA | GlobalData plc | interim_results | time_not_supplied | £524.2m | £1.7m | `excluded_adtv` | £0 — not classified |
-| 2026-09-14 | UK | GRP | Greencoat Renewables plc | interim_results | time_not_supplied | £856.0m | N/A | `pending_currency_basis` | £0 — not classified |
-| 2026-09-14 | UK | HGT | HG Capital Trust plc | interim_results | time_not_supplied | £1.86bn | £3.1m | `excluded_adtv` | £0 — not classified |
+| 2026-09-14 | UK | GRP | Greencoat Renewables plc | interim_results | time_not_supplied | £850.5m | N/A | `pending_currency_basis` | £0 — not classified |
+| 2026-09-14 | UK | HGT | HG Capital Trust plc | interim_results | time_not_supplied | £1.91bn | £3.1m | `excluded_adtv` | £0 — not classified |
 | 2026-09-14 | UK | KEYS | Keystone Law Group plc | interim_results | time_not_supplied | £186.2m | N/A | `excluded_market_cap` | £0 — not classified |
 | 2026-09-14 | UK | MPE | M P Evans Group Plc | interim_results | time_not_supplied | £958.9m | £1.1m | `excluded_adtv` | £0 — not classified |
 | 2026-09-14 | UK | PWR | Power Probe | trading_announcement | time_not_supplied | £45.0m | N/A | `excluded_market_cap` | £0 — not classified |
-| 2026-09-14 | UK | RTW | RTW Biotech Opportunities Ltd | interim_results | time_not_supplied | $788.8m | $0.8m | `excluded_adtv` | £0 — not classified |
+| 2026-09-14 | UK | RTW | RTW Biotech Opportunities Ltd | interim_results | time_not_supplied | $779.2m | $0.8m | `excluded_adtv` | £0 — not classified |
 | 2026-09-14 | US | BNR | Burning Rock Biotech Limited | earnings | time_not_supplied | $113.7m | N/A | `excluded_market_cap` | £0 — not classified |
 | 2026-09-14 | US | CODA | Coda Octopus Group, Inc. | earnings | BMO_unverified | $113.0m | N/A | `excluded_market_cap` | £0 — not classified |
 | 2026-09-14 | US | HAIN | The Hain Celestial Group, Inc. | earnings | BMO_unverified | $67.2m | N/A | `excluded_market_cap` | £0 — not classified |
@@ -95,7 +100,7 @@ No agent reviews have been submitted for this week yet.
 | 2026-09-15 | UK | EVPL | Everplay Group | interim_results | time_not_supplied | £395.2m | N/A | `excluded_market_cap` | £0 — not classified |
 | 2026-09-15 | UK | EYE | Eagle Eye Solutions Group plc | final_results | time_not_supplied | £150.8m | N/A | `excluded_market_cap` | £0 — not classified |
 | 2026-09-15 | UK | FNTL | Fintel Plc | interim_results | time_not_supplied | £196.4m | N/A | `excluded_market_cap` | £0 — not classified |
-| 2026-09-15 | UK | FSFL | Foresight Solar Fund Ltd | interim_results | time_not_supplied | £384.1m | N/A | `excluded_market_cap` | £0 — not classified |
+| 2026-09-15 | UK | FSFL | Foresight Solar Fund Ltd | interim_results | time_not_supplied | £381.4m | N/A | `excluded_market_cap` | £0 — not classified |
 | 2026-09-15 | UK | GLE | MJ Gleeson plc | final_results | time_not_supplied | £151.9m | N/A | `excluded_market_cap` | £0 — not classified |
 | 2026-09-15 | UK | HVO | Hvivo Plc | interim_results | time_not_supplied | £47.5m | N/A | `excluded_market_cap` | £0 — not classified |
 | 2026-09-15 | UK | HWG | Harworth Group plc | interim_results | time_not_supplied | £575.4m | £0.8m | `excluded_adtv` | £0 — not classified |
