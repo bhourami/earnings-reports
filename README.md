@@ -8,6 +8,7 @@ No live capital is authorised. Every classification is advisory and the
 paper pot is notional.
 
 - `current-earnings-opportunity-screen.md` — the latest weekly screen
+- `current-daily-coverage.md` — current and next-week deadlines, analyst coverage and explicit gaps
 - `<date>.md` — the analyst reconciliation report for that run
 - `requests/<id>-<ticker>.md` — the result of a company-check request
 
@@ -22,7 +23,7 @@ methodology, ledger and decision seals stay private; this repository holds
 only the finished reports. Portfolio quantities, costs, cash and market values
 remain in the private frozen pack and are not published.
 
-Last published 2026-09-08T17:59:42.776761+00:00.
+Last published 2026-09-09T17:40:43.591431+00:00.
 
 ---
 
