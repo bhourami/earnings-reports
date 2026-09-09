@@ -2,7 +2,7 @@
 
 # All research — week of 2026-09-14
 
-Generated: 2026-09-09T18:10:07.160971+00:00
+Generated: 2026-09-09T19:08:19.053589+00:00
 
 > **Paper research only. This is not a frozen universe, trade instruction, or investment recommendation.**
 > Calendar pages are discovery sources. Announcement timing must be verified from the company release or IR page before any classification can be locked.

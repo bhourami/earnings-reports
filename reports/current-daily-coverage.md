@@ -2,7 +2,7 @@
 
 # Daily event coverage
 
-Checked 2026-09-09T18:10:07.290792+00:00
+Checked 2026-09-09T19:08:19.175234+00:00
 
 Current and next-week queues; paper research only. Original allocation evidence controls P/L. A saved recommendation is not itself a funded V2 position.
 
@@ -32,10 +32,10 @@ Current and next-week queues; paper research only. Original allocation evidence 
 | 2026-09-10 | FIZZ (US) | time not supplied / schedule unverified | Not reviewed | Not reviewed | not reviewed |
 | 2026-09-10 | HUBG (US) | time not supplied / schedule unverified | Not reviewed | Not reviewed | not reviewed |
 | 2026-09-10 | LPTH (US) | AMC unverified / schedule unverified | Not reviewed | Not reviewed | not reviewed |
-| 2026-09-10 | M (US) | BMO unverified / schedule unverified | Not reviewed | Not reviewed | not reviewed |
+| 2026-09-10 | M (US) | BMO unverified / schedule unverified | Speculative £250 | Unscreenable £0 | Unscreenable £0 |
 | 2026-09-10 | ORCL (US) | AMC verified / before entry | Watch £? | Unscreenable £? | Unscreenable £? |
 | 2026-09-10 | RH (US) | AMC verified / before entry | Not reviewed | Not reviewed | not reviewed |
-| 2026-09-10 | TEN (US) | BMO verified / before entry | Not reviewed | Not reviewed | not reviewed |
+| 2026-09-10 | TEN (US) | BMO verified / before entry | Unscreenable £0 | Unscreenable £0 | Unscreenable £0 |
 | 2026-09-10 | UROY (US) | time not supplied / schedule unverified | Not reviewed | Not reviewed | not reviewed |
 | 2026-09-11 | BKG (UK) | time not supplied / schedule unverified | Not reviewed | Not reviewed | not reviewed |
 | 2026-09-11 | KR (US) | BMO unverified / schedule unverified | Not reviewed | Not reviewed | not reviewed |
