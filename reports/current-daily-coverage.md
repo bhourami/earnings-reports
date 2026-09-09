@@ -2,7 +2,7 @@
 
 # Daily event coverage
 
-Checked 2026-09-09T17:40:43.332729+00:00
+Checked 2026-09-09T18:10:07.290792+00:00
 
 Current and next-week queues; paper research only. Original allocation evidence controls P/L. A saved recommendation is not itself a funded V2 position.
 
@@ -15,9 +15,9 @@ Current and next-week queues; paper research only. Original allocation evidence 
 | 2026-09-09 | AVAV (US) | AMC verified / before entry | Speculative £250 | Speculative £250 | Speculative £250 |
 | 2026-09-09 | CHWY (US) | BMO verified / entry cutoff passed | Not reviewed | Not reviewed | not reviewed |
 | 2026-09-09 | CNM (US) | BMO unverified / BMO planning deadline passed schedule unverified | Not reviewed | Not reviewed | not reviewed |
-| 2026-09-09 | COO (US) | AMC verified / before entry | Speculative £250 | Speculative £250 | in progress |
+| 2026-09-09 | COO (US) | AMC verified / before entry | Speculative £250 | Speculative £250 | Speculative £250 |
 | 2026-09-09 | KFY (US) | BMO unverified / BMO planning deadline passed schedule unverified | Not reviewed | Not reviewed | not reviewed |
-| 2026-09-09 | NAVN (US) | AMC verified / before entry | Not reviewed | Not reviewed | not reviewed |
+| 2026-09-09 | NAVN (US) | AMC verified / before entry | Avoid £0 (declared input gaps) | Speculative £250 | Speculative £250 |
 | 2026-09-09 | ODD (US) | BMO unverified / BMO planning deadline passed schedule unverified | Not reviewed | Not reviewed | not reviewed |
 | 2026-09-09 | SA (US) | time not supplied / schedule unverified | Not reviewed | Not reviewed | not reviewed |
 | 2026-09-09 | SAIL (US) | BMO verified / entry cutoff passed | Not reviewed | Not reviewed | not reviewed |
@@ -248,6 +248,7 @@ Current and next-week queues; paper research only. Original allocation evidence 
 | 2026-09-14 | SPSC (UK) | excluded market cap |
 
 Not reviewed, interrupted, unverified timing and elapsed cutoffs are coverage gaps, not conviction-based Watch decisions.
+An opening tagged "declared input gaps" preserves an inconsistent original Watch/Avoid label; it is not evidence of a fully assessed conviction-based rejection. Later debate cannot rewrite that opening.
 UK planning-deadline flags are conservative scheduling alerts, not a verified UK entry convention. No late allocation is permitted.
 Implied moves require the specified option-chain calculation; absent inputs are N/A with zero model weight. Current macro claims require dated independent verification.
 
