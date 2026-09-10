@@ -2,7 +2,7 @@
 
 # All research — week of 2026-09-14
 
-Generated: 2026-09-10T07:30:21.069044+00:00
+Generated: 2026-09-10T14:09:20.687714+00:00
 
 > **Paper research only. This is not a frozen universe, trade instruction, or investment recommendation.**
 > Calendar pages are discovery sources. Announcement timing must be verified from the company release or IR page before any classification can be locked.
@@ -13,13 +13,13 @@ Names marked `eligible_for_official_verification` passed the mechanical market-c
 
 ## Coverage
 
-- Calendar candidates discovered: 125
+- Calendar candidates discovered: 138
 - EODHD calls made this run: 0
 - `eligible_for_official_verification`: 10
-- `excluded_adtv`: 15
-- `excluded_market_cap`: 96
+- `excluded_adtv`: 14
+- `excluded_market_cap`: 109
 - `pending_currency_basis`: 1
-- `pending_market_cap`: 2
+- `pending_market_cap`: 3
 - `pending_price_data`: 1
 - Source errors:
   - FMP calendar rows outside section 5 (secondary London lines, ETFs and funds): 16 -- 0ELV (London line quoted in EUR, so the primary listing is elsewhere); 0I50 (London line quoted in USD, so the primary listing is elsewhere); 0IPY (London line quoted in EUR, so the primary listing is elsewhere); 0J2I (London line quoted in USD, so the primary listing is elsewhere); 0JU0 (London line quoted in USD, so the primary listing is elsewhere); 0NZN (London line quoted in EUR, so the primary listing is elsewhere); 0OA7 (London line quoted in EUR, so the primary listing is elsewhere); 0OG6 (London line quoted in EUR, so the primary listing is elsewhere) ...
@@ -60,10 +60,10 @@ These names passed market cap and ADTV. They are research priorities, **not** Ta
 | 2026-09-15 | US | FPS | Forgent Power Solutions, Inc. | $9.84bn | $208.7m | BMO_verified | Verify official release and evidence |
 | 2026-09-15 | UK | JTC | Jtc PLC | £2.31bn | £13.5m | time_not_supplied | Verify official release and evidence |
 | 2026-09-16 | US | LEN | Lennar Corporation | $19.36bn | $209.0m | AMC_verified | Verify official release and evidence |
-| 2026-09-16 | UK | BTRW | Barratt Redrow Plc | £4.09bn | £20.7m | time_not_supplied | Verify official release and evidence |
-| 2026-09-16 | US | MANU | Manchester United Ltd. | $3.57bn | $7.3m | time_not_supplied | Verify official release and evidence |
-| 2026-09-16 | UK | PAF | Pan African Resources PLC | £2.76bn | £7.9m | time_not_supplied | Verify official release and evidence |
-| 2026-09-16 | US | CBRL | Cracker Barrel Old Country Store, Inc. | $1.18bn | $43.4m | time_not_supplied | Verify official release and evidence |
+| 2026-09-16 | UK | BTRW | Barratt Redrow Plc | £4.15bn | £20.7m | time_not_supplied | Verify official release and evidence |
+| 2026-09-16 | US | SA | Seabridge Gold, Inc. | $3.42bn | $24.2m | time_not_supplied | Verify official release and evidence |
+| 2026-09-16 | UK | PAF | Pan African Resources PLC | £2.57bn | £7.9m | time_not_supplied | Verify official release and evidence |
+| 2026-09-16 | US | ANAB | AnaptysBio, Inc. | $1.68bn | $25.5m | time_not_supplied | Verify official release and evidence |
 | 2026-09-17 | UK | NXT | Next plc | £17.95bn | £42.4m | time_not_supplied | Verify official release and evidence |
 
 ## Claude–Codex decision bridge
@@ -97,62 +97,63 @@ These are attributed second opinions, not verified facts or locked classificatio
 | 2026-09-14 | UK | PWR | Power Probe | trading_announcement | time_not_supplied | £44.2m | N/A | `excluded_market_cap` | £0 — not classified |
 | 2026-09-14 | UK | RTW | RTW Biotech Opportunities Ltd | interim_results | time_not_supplied | $781.7m | $0.8m | `excluded_adtv` | £0 — not classified |
 | 2026-09-14 | UK | SPSC | Spectra Systems Corporation | earnings | time_not_supplied | £81.1m | N/A | `excluded_market_cap` | £0 — not classified |
-| 2026-09-14 | UK | SRC | SigmaRoc plc | earnings | time_not_supplied | £1.43bn | £4.4m | `excluded_adtv` | £0 — not classified |
-| 2026-09-14 | UK | UJO | Union Jack Oil plc | earnings | time_not_supplied | £4.5m | N/A | `excluded_market_cap` | £0 — not classified |
+| 2026-09-14 | UK | SRC | SigmaRoc plc | earnings | time_not_supplied | £1.39bn | £4.4m | `excluded_adtv` | £0 — not classified |
+| 2026-09-14 | UK | UJO | Union Jack Oil plc | earnings | time_not_supplied | £4.7m | N/A | `excluded_market_cap` | £0 — not classified |
 | 2026-09-14 | UK | VAL | ValiRx plc | earnings | time_not_supplied | £1.9m | N/A | `excluded_market_cap` | £0 — not classified |
-| 2026-09-14 | UK | VRCI | Verici Dx plc | earnings | time_not_supplied | £3.8m | N/A | `excluded_market_cap` | £0 — not classified |
+| 2026-09-14 | UK | VRCI | Verici Dx plc | earnings | time_not_supplied | £4.2m | N/A | `excluded_market_cap` | £0 — not classified |
 | 2026-09-14 | US | AIV | Apartment Investment and Management Company | earnings | time_not_supplied | $360.2m | N/A | `excluded_market_cap` | £0 — not classified |
 | 2026-09-14 | US | BNR | Burning Rock Biotech Limited | earnings | time_not_supplied | $113.0m | N/A | `excluded_market_cap` | £0 — not classified |
-| 2026-09-14 | US | CBAT | CBAK Energy Technology Limited | earnings | time_not_supplied | $88.6m | N/A | `excluded_market_cap` | £0 — not classified |
-| 2026-09-14 | US | CHRN | ChronoScale Holdings Corporation | earnings | time_not_supplied | $3.07bn | $3.5m | `excluded_adtv` | £0 — not classified |
-| 2026-09-14 | US | CODA | Coda Octopus Group, Inc. | earnings | BMO_unverified | $114.0m | N/A | `excluded_market_cap` | £0 — not classified |
+| 2026-09-14 | US | CBAT | CBAK Energy Technology Limited | earnings | time_not_supplied | $90.4m | N/A | `excluded_market_cap` | £0 — not classified |
+| 2026-09-14 | US | CHRN | ChronoScale Holdings Corporation | earnings | time_not_supplied | $2.65bn | $3.5m | `excluded_adtv` | £0 — not classified |
+| 2026-09-14 | US | CODA | Coda Octopus Group, Inc. | earnings | BMO_unverified | $112.9m | N/A | `excluded_market_cap` | £0 — not classified |
+| 2026-09-14 | US | CSHR | CoinShares PLC | earnings | BMO_unverified | $755.1m | $1.3m | `excluded_adtv` | £0 — not classified |
 | 2026-09-14 | US | CURR | Currenc Group Inc. | earnings | time_not_supplied | $405.3m | N/A | `excluded_market_cap` | £0 — not classified |
 | 2026-09-14 | US | FRGT | Freight Technologies, Inc. | earnings | time_not_supplied | $0.6m | N/A | `excluded_market_cap` | £0 — not classified |
 | 2026-09-14 | US | GRFS | Grifols, S.A. | earnings | time_not_supplied | $5.33bn | $3.7m | `excluded_adtv` | £0 — not classified |
 | 2026-09-14 | US | HAIN | The Hain Celestial Group, Inc. | earnings | BMO_unverified | $61.5m | N/A | `excluded_market_cap` | £0 — not classified |
-| 2026-09-14 | US | HITI | High Tide Inc. | earnings | AMC_unverified | $236.2m | N/A | `excluded_market_cap` | £0 — not classified |
-| 2026-09-14 | US | HYFT | MindWalk Holdings Corp. | earnings | AMC_unverified | $63.1m | N/A | `excluded_market_cap` | £0 — not classified |
+| 2026-09-14 | US | HITI | High Tide Inc. | earnings | AMC_unverified | $226.5m | N/A | `excluded_market_cap` | £0 — not classified |
+| 2026-09-14 | US | HYFT | MindWalk Holdings Corp. | earnings | AMC_unverified | $60.3m | N/A | `excluded_market_cap` | £0 — not classified |
 | 2026-09-14 | US | KMTS | Kestra Medical Technologies, Ltd. | earnings | AMC_verified | $1.50bn | $7.4m | `eligible_for_official_verification` | £0 — not classified |
 | 2026-09-14 | US | PLAY | Dave & Buster's Entertainment, Inc. | earnings | AMC_unverified | $307.5m | N/A | `excluded_market_cap` | £0 — not classified |
 | 2026-09-14 | US | RFIL | RF Industries, Ltd. | earnings | BMO_unverified | $114.6m | N/A | `excluded_market_cap` | £0 — not classified |
+| 2026-09-14 | US | RLGT | Radiant Logistics, Inc. | earnings | AMC_unverified | $390.1m | N/A | `excluded_market_cap` | £0 — not classified |
 | 2026-09-15 | UK | ACSO | Accesso Technology Group plc | interim_results | time_not_supplied | £98.2m | N/A | `excluded_market_cap` | £0 — not classified |
-| 2026-09-15 | UK | ALU | The Alumasc Group plc | earnings | time_not_supplied | £83.6m | N/A | `excluded_market_cap` | £0 — not classified |
-| 2026-09-15 | UK | ARC | Arcontech Group plc | earnings | time_not_supplied | £10.6m | N/A | `excluded_market_cap` | £0 — not classified |
+| 2026-09-15 | UK | ALU | The Alumasc Group plc | earnings | time_not_supplied | £83.7m | N/A | `excluded_market_cap` | £0 — not classified |
+| 2026-09-15 | UK | ARC | Arcontech Group plc | earnings | time_not_supplied | £11.0m | N/A | `excluded_market_cap` | £0 — not classified |
 | 2026-09-15 | UK | EKF | EKF Diagnostics Holdings plc | interim_results | time_not_supplied | £108.8m | N/A | `excluded_market_cap` | £0 — not classified |
-| 2026-09-15 | UK | ELCO | Eleco plc | earnings | time_not_supplied | £112.3m | N/A | `excluded_market_cap` | £0 — not classified |
+| 2026-09-15 | UK | ELCO | Eleco plc | earnings | time_not_supplied | £191.2m | N/A | `excluded_market_cap` | £0 — not classified |
 | 2026-09-15 | UK | EVPL | Everplay Group | interim_results | time_not_supplied | £421.5m | N/A | `excluded_market_cap` | £0 — not classified |
 | 2026-09-15 | UK | EXR | ENGAGE XR Holdings plc | earnings | time_not_supplied | £1.2m | N/A | `excluded_market_cap` | £0 — not classified |
 | 2026-09-15 | UK | EYE | Eagle Eye Solutions Group plc | final_results | time_not_supplied | £146.6m | N/A | `excluded_market_cap` | £0 — not classified |
 | 2026-09-15 | UK | FNTL | Fintel Plc | interim_results | time_not_supplied | £185.5m | N/A | `excluded_market_cap` | £0 — not classified |
 | 2026-09-15 | UK | FSFL | Foresight Solar Fund Ltd | interim_results | time_not_supplied | £383.0m | N/A | `excluded_market_cap` | £0 — not classified |
-| 2026-09-15 | UK | GFM | Griffin Mining Limited | earnings | time_not_supplied | £520.9m | £0.1m | `excluded_adtv` | £0 — not classified |
+| 2026-09-15 | UK | GFM | Griffin Mining Limited | earnings | time_not_supplied | £493.1m | N/A | `excluded_market_cap` | £0 — not classified |
 | 2026-09-15 | UK | GLE | MJ Gleeson plc | final_results | time_not_supplied | £150.2m | N/A | `excluded_market_cap` | £0 — not classified |
 | 2026-09-15 | UK | HEAD | Headlam Group plc | earnings | time_not_supplied | £8.4m | N/A | `excluded_market_cap` | £0 — not classified |
 | 2026-09-15 | UK | HVO | Hvivo Plc | interim_results | time_not_supplied | £45.8m | N/A | `excluded_market_cap` | £0 — not classified |
 | 2026-09-15 | UK | HWG | Harworth Group plc | interim_results | time_not_supplied | £572.2m | £0.8m | `excluded_adtv` | £0 — not classified |
-| 2026-09-15 | UK | IPO | IP Group Plc | earnings | time_not_supplied | £591.9m | £1.1m | `excluded_adtv` | £0 — not classified |
+| 2026-09-15 | UK | IPO | IP Group Plc | earnings | time_not_supplied | £589.2m | £1.1m | `excluded_adtv` | £0 — not classified |
 | 2026-09-15 | UK | JTC | Jtc PLC | earnings | time_not_supplied | £2.31bn | £13.5m | `eligible_for_official_verification` | £0 — not classified |
 | 2026-09-15 | UK | KIE | Kier Group plc | final_results | time_not_supplied | £1.06bn | £2.5m | `excluded_adtv` | £0 — not classified |
-| 2026-09-15 | UK | KP2 | Kore Potash plc | earnings | time_not_supplied | £186.3m | N/A | `excluded_market_cap` | £0 — not classified |
-| 2026-09-15 | UK | LSL | LSL Property Services plc | earnings | time_not_supplied | £245.7m | N/A | `excluded_market_cap` | £0 — not classified |
-| 2026-09-15 | UK | LUCE | Luceco plc | earnings | time_not_supplied | £328.2m | N/A | `excluded_market_cap` | £0 — not classified |
-| 2026-09-15 | UK | MCB | McBride plc | earnings | time_not_supplied | £317.5m | N/A | `excluded_market_cap` | £0 — not classified |
+| 2026-09-15 | UK | KP2 | Kore Potash plc | earnings | time_not_supplied | £188.9m | N/A | `excluded_market_cap` | £0 — not classified |
+| 2026-09-15 | UK | LSL | LSL Property Services plc | earnings | time_not_supplied | £252.2m | N/A | `excluded_market_cap` | £0 — not classified |
+| 2026-09-15 | UK | LUCE | Luceco plc | earnings | time_not_supplied | £320.9m | N/A | `excluded_market_cap` | £0 — not classified |
+| 2026-09-15 | UK | MCB | McBride plc | earnings | time_not_supplied | £318.5m | N/A | `excluded_market_cap` | £0 — not classified |
 | 2026-09-15 | UK | MPAC | Mpac Group plc | interim_results | time_not_supplied | £103.8m | N/A | `excluded_market_cap` | £0 — not classified |
-| 2026-09-15 | UK | MTEC | Made Tech Group Plc | earnings | time_not_supplied | £72.4m | N/A | `excluded_market_cap` | £0 — not classified |
+| 2026-09-15 | UK | MTEC | Made Tech Group Plc | earnings | time_not_supplied | £74.3m | N/A | `excluded_market_cap` | £0 — not classified |
 | 2026-09-15 | UK | NBB | Norman Broadbent Plc | interim_results | time_not_supplied | £4.3m | N/A | `excluded_market_cap` | £0 — not classified |
 | 2026-09-15 | UK | PGH | Personal Group Holdings | interim_results | time_not_supplied | £129.6m | N/A | `excluded_market_cap` | £0 — not classified |
-| 2026-09-15 | UK | SFOR | S4 Capital plc | earnings | time_not_supplied | £323.2m | N/A | `excluded_market_cap` | £0 — not classified |
+| 2026-09-15 | UK | SFOR | S4 Capital plc | earnings | time_not_supplied | £316.6m | N/A | `excluded_market_cap` | £0 — not classified |
 | 2026-09-15 | UK | SPR | Springfield Properties plc | final_results | time_not_supplied | £126.1m | N/A | `excluded_market_cap` | £0 — not classified |
-| 2026-09-15 | UK | TRST | Trustpilot Group plc | earnings | time_not_supplied | £994.1m | £3.1m | `excluded_adtv` | £0 — not classified |
-| 2026-09-15 | UK | WIX | Wickes Group plc | earnings | time_not_supplied | £403.3m | N/A | `excluded_market_cap` | £0 — not classified |
+| 2026-09-15 | UK | TRST | Trustpilot Group plc | earnings | time_not_supplied | £1.00bn | £3.1m | `excluded_adtv` | £0 — not classified |
+| 2026-09-15 | UK | WIX | Wickes Group plc | earnings | time_not_supplied | £403.7m | N/A | `excluded_market_cap` | £0 — not classified |
 | 2026-09-15 | US | AAME | Atlantic American Corporation | earnings | time_not_supplied | $26.7m | N/A | `excluded_market_cap` | £0 — not classified |
 | 2026-09-15 | US | ALPS | ALPS Group Inc | earnings | time_not_supplied | $64.1m | N/A | `excluded_market_cap` | £0 — not classified |
-| 2026-09-15 | US | AREC | American Resources Corporation | earnings | time_not_supplied | $262.1m | N/A | `excluded_market_cap` | £0 — not classified |
+| 2026-09-15 | US | AREC | American Resources Corporation | earnings | time_not_supplied | $247.1m | N/A | `excluded_market_cap` | £0 — not classified |
 | 2026-09-15 | US | BRLS | Borealis Foods Inc. | earnings | time_not_supplied | $28.8m | N/A | `excluded_market_cap` | £0 — not classified |
-| 2026-09-15 | US | BRTX | BioRestorative Therapies, Inc. | earnings | time_not_supplied | $3.9m | N/A | `excluded_market_cap` | £0 — not classified |
-| 2026-09-15 | US | CSHR | CoinShares PLC | earnings | time_not_supplied | $755.1m | $1.3m | `excluded_adtv` | £0 — not classified |
+| 2026-09-15 | US | BRTX | BioRestorative Therapies, Inc. | earnings | time_not_supplied | $3.8m | N/A | `excluded_market_cap` | £0 — not classified |
 | 2026-09-15 | US | ELME | Elme Communities | earnings | time_not_supplied | $149.3m | N/A | `excluded_market_cap` | £0 — not classified |
-| 2026-09-15 | US | EPM | Evolution Petroleum Corporation, Inc. | earnings | time_not_supplied | $133.0m | N/A | `excluded_market_cap` | £0 — not classified |
+| 2026-09-15 | US | EPM | Evolution Petroleum Corporation, Inc. | earnings | AMC_unverified | $133.0m | N/A | `excluded_market_cap` | £0 — not classified |
 | 2026-09-15 | US | ESP | Espey Mfg. & Electronics Corp. | earnings | time_not_supplied | $189.0m | N/A | `excluded_market_cap` | £0 — not classified |
 | 2026-09-15 | US | FPS | Forgent Power Solutions, Inc. | earnings | BMO_verified | $9.84bn | $208.7m | `eligible_for_official_verification` | £0 — not classified |
 | 2026-09-15 | US | GTEN | Gores Holdings X, Inc. | earnings | time_not_supplied | N/A | N/A | `pending_market_cap` | £0 — not classified |
@@ -165,52 +166,64 @@ These are attributed second opinions, not verified facts or locked classificatio
 | 2026-09-16 | UK | ADF | Facilities by ADF plc | interim_results | time_not_supplied | £14.1m | N/A | `excluded_market_cap` | £0 — not classified |
 | 2026-09-16 | UK | AMCO | Amcomri Group Plc | interim_results | time_not_supplied | £87.8m | N/A | `excluded_market_cap` | £0 — not classified |
 | 2026-09-16 | UK | ART | Artisanal Spirits Company plc | interim_results | time_not_supplied | £17.0m | N/A | `excluded_market_cap` | £0 — not classified |
-| 2026-09-16 | UK | BTRW | Barratt Redrow Plc | final_results | time_not_supplied | £4.09bn | £20.7m | `eligible_for_official_verification` | £0 — not classified |
+| 2026-09-16 | UK | BTRW | Barratt Redrow Plc | final_results | time_not_supplied | £4.15bn | £20.7m | `eligible_for_official_verification` | £0 — not classified |
 | 2026-09-16 | UK | CLIG | City of London Investment Group plc | final_results | time_not_supplied | £238.2m | N/A | `excluded_market_cap` | £0 — not classified |
 | 2026-09-16 | UK | FIN | Finseta plc | interim_results | time_not_supplied | £5.3m | N/A | `excluded_market_cap` | £0 — not classified |
 | 2026-09-16 | UK | MOON | Moonpig Group Plc | trading_announcement | time_not_supplied | £755.3m | £3.7m | `excluded_adtv` | £0 — not classified |
-| 2026-09-16 | UK | PAF | Pan African Resources PLC | earnings | time_not_supplied | £2.76bn | £7.9m | `eligible_for_official_verification` | £0 — not classified |
-| 2026-09-16 | UK | PHAR | Pharos Energy plc | earnings | time_not_supplied | £123.3m | N/A | `excluded_market_cap` | £0 — not classified |
-| 2026-09-16 | UK | SUN | Surgical Innovations Group plc | earnings | time_not_supplied | £4.0m | N/A | `excluded_market_cap` | £0 — not classified |
+| 2026-09-16 | UK | PAF | Pan African Resources PLC | earnings | time_not_supplied | £2.57bn | £7.9m | `eligible_for_official_verification` | £0 — not classified |
+| 2026-09-16 | UK | PHAR | Pharos Energy plc | earnings | time_not_supplied | £122.9m | N/A | `excluded_market_cap` | £0 — not classified |
+| 2026-09-16 | UK | SUN | Surgical Innovations Group plc | earnings | time_not_supplied | £4.2m | N/A | `excluded_market_cap` | £0 — not classified |
 | 2026-09-16 | UK | SUPR | Supermarket Income REIT plc | final_results | time_not_supplied | N/A | N/A | `pending_market_cap` | £0 — not classified |
-| 2026-09-16 | UK | SYM | Symphony Environmental Technologies plc | earnings | time_not_supplied | £17.1m | N/A | `excluded_market_cap` | £0 — not classified |
+| 2026-09-16 | UK | SYM | Symphony Environmental Technologies plc | earnings | time_not_supplied | £18.9m | N/A | `excluded_market_cap` | £0 — not classified |
 | 2026-09-16 | UK | TST | Touchstar plc | earnings | time_not_supplied | £5.8m | N/A | `excluded_market_cap` | £0 — not classified |
-| 2026-09-16 | US | ALMU | Aeluma, Inc. | earnings | AMC_unverified | $243.6m | N/A | `excluded_market_cap` | £0 — not classified |
-| 2026-09-16 | US | CBRL | Cracker Barrel Old Country Store, Inc. | earnings | time_not_supplied | $1.18bn | $43.4m | `eligible_for_official_verification` | £0 — not classified |
-| 2026-09-16 | US | DSWL | Deswell Industries, Inc. | earnings | time_not_supplied | $48.8m | N/A | `excluded_market_cap` | £0 — not classified |
+| 2026-09-16 | US | AACG | ATA Creativity Global | earnings | time_not_supplied | $57.7m | N/A | `excluded_market_cap` | £0 — not classified |
+| 2026-09-16 | US | ALMU | Aeluma, Inc. | earnings | AMC_unverified | $243.5m | N/A | `excluded_market_cap` | £0 — not classified |
+| 2026-09-16 | US | ANAB | AnaptysBio, Inc. | earnings | time_not_supplied | $1.68bn | $25.5m | `eligible_for_official_verification` | £0 — not classified |
+| 2026-09-16 | US | ATCH | AtlasClear Holdings, Inc. | earnings | time_not_supplied | $27.9m | N/A | `excluded_market_cap` | £0 — not classified |
+| 2026-09-16 | US | CLGN | CollPlant Biotechnologies Ltd. | earnings | time_not_supplied | $6.4m | N/A | `excluded_market_cap` | £0 — not classified |
+| 2026-09-16 | US | COE | 51Talk Online Education Group | earnings | time_not_supplied | $79.1m | N/A | `excluded_market_cap` | £0 — not classified |
+| 2026-09-16 | US | DSWL | Deswell Industries, Inc. | earnings | time_not_supplied | $49.1m | N/A | `excluded_market_cap` | £0 — not classified |
+| 2026-09-16 | US | GAUZ | Gauzy Ltd. | earnings | time_not_supplied | $8.7m | N/A | `excluded_market_cap` | £0 — not classified |
+| 2026-09-16 | US | GURE | Gulf Resources, Inc. | earnings | time_not_supplied | $6.3m | N/A | `excluded_market_cap` | £0 — not classified |
 | 2026-09-16 | US | HERE | Here Group Limited | earnings | time_not_supplied | $102.8m | N/A | `excluded_market_cap` | £0 — not classified |
+| 2026-09-16 | US | HTT | High Templar Tech Limited | earnings | time_not_supplied | $411.5m | N/A | `excluded_market_cap` | £0 — not classified |
+| 2026-09-16 | US | ISPR | Ispire Technology Inc. | earnings | BMO_unverified | $84.4m | N/A | `excluded_market_cap` | £0 — not classified |
 | 2026-09-16 | US | LEN | Lennar Corporation | earnings | AMC_verified | $19.36bn | $209.0m | `eligible_for_official_verification` | £0 — not classified |
 | 2026-09-16 | US | LEN.B | Lennar Corporation | earnings | AMC_unverified | $19.36bn | N/A | `pending_price_data` | £0 — not classified |
+| 2026-09-16 | US | LKSP | Lake Superior Acquisition Corp. | earnings | time_not_supplied | N/A | N/A | `pending_market_cap` | £0 — not classified |
 | 2026-09-16 | US | LUXE | LuxExperience B.V. | earnings | BMO_unverified | $1.00bn | $0.9m | `excluded_adtv` | £0 — not classified |
-| 2026-09-16 | US | MANU | Manchester United Ltd. | earnings | time_not_supplied | $3.57bn | $7.3m | `eligible_for_official_verification` | £0 — not classified |
-| 2026-09-16 | US | PLUR | Pluri Inc. | earnings | time_not_supplied | $15.7m | N/A | `excluded_market_cap` | £0 — not classified |
-| 2026-09-16 | US | RZLT | Rezolute, Inc. | earnings | time_not_supplied | $423.7m | N/A | `excluded_market_cap` | £0 — not classified |
+| 2026-09-16 | US | NBP | NovaBridge Biosciences | earnings | time_not_supplied | $196.1m | N/A | `excluded_market_cap` | £0 — not classified |
+| 2026-09-16 | US | PLUR | Pluri Inc. | earnings | time_not_supplied | $16.9m | N/A | `excluded_market_cap` | £0 — not classified |
+| 2026-09-16 | US | PTN | Palatin Technologies, Inc. | earnings | time_not_supplied | $21.9m | N/A | `excluded_market_cap` | £0 — not classified |
+| 2026-09-16 | US | RYDE | Ryde Group Ltd. | earnings | time_not_supplied | $127.7m | N/A | `excluded_market_cap` | £0 — not classified |
+| 2026-09-16 | US | RZLT | Rezolute, Inc. | earnings | time_not_supplied | $390.9m | N/A | `excluded_market_cap` | £0 — not classified |
+| 2026-09-16 | US | SA | Seabridge Gold, Inc. | earnings | time_not_supplied | $3.42bn | $24.2m | `eligible_for_official_verification` | £0 — not classified |
 | 2026-09-16 | US | SANG | Sangoma Technologies Corporation | earnings | time_not_supplied | $124.6m | N/A | `excluded_market_cap` | £0 — not classified |
+| 2026-09-16 | US | SJ | Scienjoy Holding Corporation | earnings | time_not_supplied | $33.0m | N/A | `excluded_market_cap` | £0 — not classified |
 | 2026-09-16 | US | YI | 111, Inc. | earnings | time_not_supplied | $28.2m | N/A | `excluded_market_cap` | £0 — not classified |
-| 2026-09-17 | UK | CKT | Checkit plc | earnings | time_not_supplied | £25.4m | N/A | `excluded_market_cap` | £0 — not classified |
-| 2026-09-17 | UK | EBQ | Ebiquity plc | earnings | time_not_supplied | £13.7m | N/A | `excluded_market_cap` | £0 — not classified |
+| 2026-09-17 | UK | CKT | Checkit plc | earnings | time_not_supplied | £28.1m | N/A | `excluded_market_cap` | £0 — not classified |
+| 2026-09-17 | UK | EBQ | Ebiquity plc | earnings | time_not_supplied | £13.8m | N/A | `excluded_market_cap` | £0 — not classified |
 | 2026-09-17 | UK | ENET | Ethernity Networks Ltd. | earnings | time_not_supplied | £0.0m | N/A | `excluded_market_cap` | £0 — not classified |
-| 2026-09-17 | UK | GFRD | Galliford Try Holdings PLC | earnings | time_not_supplied | £566.8m | £1.8m | `excluded_adtv` | £0 — not classified |
+| 2026-09-17 | UK | GFRD | Galliford Try Holdings PLC | earnings | time_not_supplied | £559.9m | £1.8m | `excluded_adtv` | £0 — not classified |
 | 2026-09-17 | UK | ITIM | Itim Group Plc | earnings | time_not_supplied | £6.4m | N/A | `excluded_market_cap` | £0 — not classified |
-| 2026-09-17 | UK | JOG | Jersey Oil & Gas PLC | earnings | time_not_supplied | £35.9m | N/A | `excluded_market_cap` | £0 — not classified |
+| 2026-09-17 | UK | JOG | Jersey Oil & Gas PLC | earnings | time_not_supplied | £35.6m | N/A | `excluded_market_cap` | £0 — not classified |
 | 2026-09-17 | UK | LABS | Life Science REIT plc | earnings | time_not_supplied | £150.8m | N/A | `excluded_market_cap` | £0 — not classified |
-| 2026-09-17 | UK | MATD | Petro Matad Limited | earnings | time_not_supplied | £19.5m | N/A | `excluded_market_cap` | £0 — not classified |
-| 2026-09-17 | UK | NFG | Next 15 Group plc | earnings | time_not_supplied | £331.9m | N/A | `excluded_market_cap` | £0 — not classified |
+| 2026-09-17 | UK | MATD | Petro Matad Limited | earnings | time_not_supplied | £19.4m | N/A | `excluded_market_cap` | £0 — not classified |
+| 2026-09-17 | UK | NFG | Next 15 Group plc | earnings | time_not_supplied | £332.4m | N/A | `excluded_market_cap` | £0 — not classified |
 | 2026-09-17 | UK | NXT | Next plc | interim_results | time_not_supplied | £17.95bn | £42.4m | `eligible_for_official_verification` | £0 — not classified |
 | 2026-09-17 | UK | RE | R.E.A. Holdings plc | earnings | time_not_supplied | £42.6m | N/A | `excluded_market_cap` | £0 — not classified |
-| 2026-09-17 | UK | RE-B | R.E.A. Holdings plc | earnings | time_not_supplied | £41.8m | N/A | `excluded_market_cap` | £0 — not classified |
-| 2026-09-17 | UK | SYN | Synergia Energy Ltd | earnings | time_not_supplied | £1.8m | N/A | `excluded_market_cap` | £0 — not classified |
+| 2026-09-17 | UK | RE-B | R.E.A. Holdings plc | earnings | time_not_supplied | £41.2m | N/A | `excluded_market_cap` | £0 — not classified |
+| 2026-09-17 | UK | SYN | Synergia Energy Ltd | earnings | time_not_supplied | £1.7m | N/A | `excluded_market_cap` | £0 — not classified |
 | 2026-09-17 | UK | TBTG | The Beauty Tech Group plc | interim_results | time_not_supplied | £388.6m | N/A | `excluded_market_cap` | £0 — not classified |
 | 2026-09-17 | UK | TRU | TruFin Plc | interim_results | time_not_supplied | £49.3m | N/A | `excluded_market_cap` | £0 — not classified |
-| 2026-09-17 | UK | WATR | Water Intelligence plc | earnings | time_not_supplied | £58.4m | N/A | `excluded_market_cap` | £0 — not classified |
-| 2026-09-17 | US | ABAT | American Battery Technology Company | earnings | time_not_supplied | $383.3m | N/A | `excluded_market_cap` | £0 — not classified |
-| 2026-09-17 | US | IH | iHuman Inc. | earnings | time_not_supplied | $63.1m | N/A | `excluded_market_cap` | £0 — not classified |
-| 2026-09-17 | US | IPHA | Innate Pharma S.A. | earnings | BMO_unverified | $229.0m | N/A | `excluded_market_cap` | £0 — not classified |
-| 2026-09-17 | US | RSSS | Research Solutions, Inc | earnings | time_not_supplied | $71.7m | N/A | `excluded_market_cap` | £0 — not classified |
-| 2026-09-18 | UK | CPH2 | Clean Power Hydrogen Plc | earnings | time_not_supplied | £4.9m | N/A | `excluded_market_cap` | £0 — not classified |
+| 2026-09-17 | UK | WATR | Water Intelligence plc | earnings | time_not_supplied | £57.5m | N/A | `excluded_market_cap` | £0 — not classified |
+| 2026-09-17 | US | ABAT | American Battery Technology Company | earnings | time_not_supplied | $365.6m | N/A | `excluded_market_cap` | £0 — not classified |
+| 2026-09-17 | US | IH | iHuman Inc. | earnings | time_not_supplied | $62.6m | N/A | `excluded_market_cap` | £0 — not classified |
+| 2026-09-17 | US | IPHA | Innate Pharma S.A. | earnings | BMO_unverified | $217.8m | N/A | `excluded_market_cap` | £0 — not classified |
+| 2026-09-18 | UK | CPH2 | Clean Power Hydrogen Plc | earnings | time_not_supplied | £5.1m | N/A | `excluded_market_cap` | £0 — not classified |
 | 2026-09-18 | UK | IHC | Inspiration Healthcare Group Plc | trading_announcement | time_not_supplied | £17.9m | N/A | `excluded_market_cap` | £0 — not classified |
-| 2026-09-18 | UK | IOF | Iofina plc | earnings | time_not_supplied | £99.8m | N/A | `excluded_market_cap` | £0 — not classified |
-| 2026-09-18 | US | TRT | Trio-Tech International | earnings | time_not_supplied | $109.5m | N/A | `excluded_market_cap` | £0 — not classified |
+| 2026-09-18 | UK | IOF | Iofina plc | earnings | time_not_supplied | £99.5m | N/A | `excluded_market_cap` | £0 — not classified |
+| 2026-09-18 | US | TRT | Trio-Tech International | earnings | time_not_supplied | $107.5m | N/A | `excluded_market_cap` | £0 — not classified |
 | 2026-09-20 | UK | MFX | Manx Financial Group PLC | earnings | time_not_supplied | £29.5m | N/A | `excluded_market_cap` | £0 — not classified |
 
 ## Source record
