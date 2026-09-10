@@ -2,7 +2,7 @@
 
 # All research — week of 2026-09-07
 
-Generated: 2026-09-09T19:08:19.123396+00:00
+Generated: 2026-09-10T07:30:21.139520+00:00
 
 > **Paper research only. This is not a frozen universe, trade instruction, or investment recommendation.**
 > Calendar pages are discovery sources. Announcement timing must be verified from the company release or IR page before any classification can be locked.
@@ -13,23 +13,23 @@ Names marked `eligible_for_official_verification` passed the mechanical market-c
 
 ## Coverage
 
-- Calendar candidates discovered: 205
+- Calendar candidates discovered: 217
 - EODHD calls made this run: 0
 - `eligible_for_official_verification`: 44
-- `excluded_adtv`: 27
-- `excluded_market_cap`: 127
+- `excluded_adtv`: 29
+- `excluded_market_cap`: 137
 - `pending_currency_basis`: 1
 - `pending_market_cap`: 2
 - `pending_price_data`: 4
 - Source errors:
   - FMP calendar rows outside section 5 (secondary London lines, ETFs and funds): 22 -- 0A05 (London line quoted in CHF, so the primary listing is elsewhere); 0F8V (London line quoted in EUR, so the primary listing is elsewhere); 0GX2 (London line quoted in EUR, so the primary listing is elsewhere); 0HAL (London line quoted in USD, so the primary listing is elsewhere); 0HN5 (London line quoted in USD, so the primary listing is elsewhere); 0HVA (London line quoted in EUR, so the primary listing is elsewhere); 0I3I (London line quoted in USD, so the primary listing is elsewhere); 0JS2 (London line quoted in USD, so the primary listing is elsewhere) ...
-  - Cached evidence rebuild; calendar and price pull timestamps are unchanged.
   - Claude BRZE review withheld: queue evidence changed
   - Claude TTAN review withheld: queue evidence changed
   - Codex BRZE review withheld: queue evidence changed
   - Codex TTAN review withheld: queue evidence changed
   - debate BRZE withheld: queue evidence changed
   - debate TTAN withheld: queue evidence changed
+  - Cached evidence rebuild; calendar and price pull timestamps are unchanged.
 
 ## Paper tracking period
 
@@ -60,13 +60,13 @@ These names passed market cap and ADTV. They are research priorities, **not** Ta
 
 | Date | Market | Ticker | Company | Market cap | ADTV 30 | Timing | Next action |
 |---|---|---|---|---:|---:|---|---|
-| 2026-09-07 | UK | SDLF | Standard Life Plc | £9.58bn | £15.3m | time_not_supplied | Verify official release and evidence |
+| 2026-09-07 | UK | SDLF | Standard Life Plc | £9.34bn | £15.3m | time_not_supplied | Verify official release and evidence |
 | 2026-09-07 | UK | GAMA | Gamma Communications plc | £1.05bn | £11.4m | time_not_supplied | Verify official release and evidence |
-| 2026-09-07 | UK | IQE | IQE plc | £638.3m | £6.4m | time_not_supplied | Verify official release and evidence |
+| 2026-09-07 | UK | IQE | IQE plc | £622.3m | £6.4m | time_not_supplied | Verify official release and evidence |
 | 2026-09-08 | US | CASY | Caseys General Stores, Inc. | $27.14bn | $259.7m | AMC_verified | Verify official release and evidence |
 | 2026-09-08 | US | GME | GameStop Corporation | $8.48bn | $134.2m | time_not_supplied | Verify official release and evidence |
 | 2026-09-08 | US | TTAN | ServiceTitan, Inc. | $7.78bn | $107.7m | time_not_supplied | Verify official release and evidence |
-| 2026-09-08 | UK | CCC | Computacenter plc | £5.95bn | £13.1m | time_not_supplied | Verify official release and evidence |
+| 2026-09-08 | UK | CCC | Computacenter plc | £5.51bn | £13.1m | time_not_supplied | Verify official release and evidence |
 | 2026-09-08 | US | BRZE | Braze, Inc. | $3.72bn | $70.3m | time_not_supplied | Verify official release and evidence |
 | 2026-09-08 | US | ABM | ABM Industries Incorporated | $2.96bn | $18.1m | time_not_supplied | Verify official release and evidence |
 | 2026-09-08 | US | UNFI | United Natural Foods, Inc. | $2.72bn | $24.2m | time_not_supplied | Verify official release and evidence |
@@ -89,20 +89,20 @@ These names passed market cap and ADTV. They are research priorities, **not** Ta
 | 2026-09-10 | US | ORCL | Oracle Corporation | $468.13bn | $3.75bn | AMC_verified | Verify official release and evidence |
 | 2026-09-10 | US | ADBE | Adobe Inc. | $102.26bn | $1.28bn | AMC_verified | Verify official release and evidence |
 | 2026-09-10 | US | CPRT | Copart, Inc. | $30.18bn | $334.2m | AMC_verified | Verify official release and evidence |
-| 2026-09-10 | UK | ABF | Associated British Foods plc | £14.33bn | £15.7m | time_not_supplied | Verify official release and evidence |
+| 2026-09-10 | UK | ABF | Associated British Foods plc | £14.20bn | £15.7m | time_not_supplied | Verify official release and evidence |
 | 2026-09-10 | US | DSGX | The Descartes Systems Group Inc. | $6.46bn | $43.6m | AMC_verified | Verify official release and evidence |
 | 2026-09-10 | US | M | Macy's Inc | $5.91bn | $120.6m | BMO_unverified | Verify official release and evidence |
 | 2026-09-10 | US | FIZZ | National Beverage Corp. | $2.91bn | $10.6m | time_not_supplied | Verify official release and evidence |
 | 2026-09-10 | US | RH | RH | $2.69bn | $111.9m | AMC_verified | Verify official release and evidence |
 | 2026-09-10 | US | HUBG | Hub Group, Inc. | $2.21bn | $50.0m | time_not_supplied | Verify official release and evidence |
 | 2026-09-10 | US | UROY | Uranium Royalty Corp. | $1.84bn | $11.0m | time_not_supplied | Verify official release and evidence |
-| 2026-09-10 | UK | CURY | Currys plc | £1.68bn | £7.1m | time_not_supplied | Verify official release and evidence |
+| 2026-09-10 | UK | CURY | Currys plc | £1.64bn | £7.1m | time_not_supplied | Verify official release and evidence |
 | 2026-09-10 | US | TEN | Tsakos Energy Navigation Ltd | $1.31bn | $8.8m | BMO_verified | Verify official release and evidence |
 | 2026-09-10 | US | FEIM | Frequency Electronics, Inc. | $729.7m | $20.1m | AMC_unverified | Verify official release and evidence |
 | 2026-09-10 | US | LPTH | LightPath Technologies, Inc. | $675.0m | $36.4m | AMC_unverified | Verify official release and evidence |
 | 2026-09-11 | US | KR | Kroger Company (The) | $35.04bn | $341.7m | BMO_unverified | Verify official release and evidence |
 | 2026-09-11 | US | KT | KT Corporation | $9.54bn | $28.5m | time_not_supplied | Verify official release and evidence |
-| 2026-09-11 | UK | BKG | The Berkeley Group Holdings plc | £3.12bn | £7.3m | time_not_supplied | Verify official release and evidence |
+| 2026-09-11 | UK | BKG | The Berkeley Group Holdings plc | £3.06bn | £7.3m | time_not_supplied | Verify official release and evidence |
 | 2026-09-11 | US | NB | NioCorp Developments Ltd. | $599.8m | $16.3m | time_not_supplied | Verify official release and evidence |
 
 ## Claude–Codex decision bridge
@@ -111,6 +111,7 @@ One answer per company. `TAKE` means a paper position only and requires both rev
 
 | Ticker | Decision | Size | Claude risk | Codex risk | Agreement or exact disagreement |
 |---|---|---:|---:|---:|---|
+| ADBE | TAKE | £250 | 7 | 7 | AGREED: TAKE — Speculative £250. Claude risk 7; Codex risk 7. Claude: Final: Speculative £250, event risk 7/10, fully converged with Codex on class, exact size and risk score. Case for: durable subscription cash generation ($2.17B Q2 op cash flow), SEC-verified FY26 non-GAAP EPS guide $24.35-24.45 giving a reproducible ~10.4-10.5x multiple, and a real ~13% pre-print drawdown reflecting de-risking. Case against: $6.08 Zacks consensus (dated 2026-09-08, Q3 FY26 ended Aug 2026) sits exactly at guidance midpoint with a Sell rank - no beat-headroom cushion - plus surprise CEO/Creative-head transition adds idiosyncratic execution risk, and net debt (~$1bn) tempers the pure cash thesis. No option-chain data; Section 11 N/A/zero weight. Entry is today's (Sept 10) regular close per Section 2, not yet printed; nothing in the debate substitutes for that mark. Risk/reward clears the Speculative floor but no higher. \| Codex: Maintain Speculative £250, advisory only. Subscription economics and $2.107bn Q2 free cash flow support testing pessimism at $254.86, or 10.45x guided adjusted EPS. Against: unchanged $6.08 quarterly consensus remains near guidance midpoint; falling shares have not lowered the operating hurdle. Upside requires EPS above $6.10, revenue above $6.72bn and convincing paid-AI/forward guidance; below $6.05/$6.67bn or weaker ARR guidance undermines the thesis. Illustrative 12x/10x $24.40 valuations imply $292.80/$244 (+14.9%/-4.3%), not event forecasts or downside limits. Cash generation narrowly wins at the £250 floor; leadership turnover and uncertain AI conversion preclude more. IR still lists September 9 as its latest release; no new supersession identified. Entry remains September 10 regular close, exit September 11 close. |
 | AEO | TAKE | £250 | 8 | 8 | AGREED: TAKE — Speculative £250. Claude risk 8; Codex risk 8. Claude: Hold Speculative £250, risk 8/10 — full convergence with Codex sustained through exchange 4. Governing hurdle: Zacks $0.21 EPS (-53.3% YoY) for Q2 FY2026 (ended ~2026-08-01 per AEO's own SEC 10-Q calendar), unsuperseded since May 28 guidance reaffirmed July 1. FOR: crushed bar, reaffirmed guidance, Aerie +25% comps, ~9.5x forward P/E pricing continued weakness — the disappointment is largely already in the number and the multiple. AGAINST: inventory dollars +27% vs units +5%, tariff drag, CFO transition, price already 22.6% off its 52-wk low (weakens margin-of-safety). No new decision-relevant fact emerged this exchange; reward edges risk only at the floor size, which is where both reviewers now sit. \| Codex: Maintain Speculative £250, risk 8/10. FOR: $0.21 consensus embeds a 53.3% earnings decline; reaffirmed guidance and Aerie momentum offer a credible relief catalyst at a modest forward valuation. AGAINST: annual recovery expectations, tariffs, inventory and leases limit cash resilience; a quarterly beat may not offset weaker guidance. Reward narrowly merits the floor, with no durable moat established. Capture checker exited 0: 'OK zacks-2983146-2026-09-01', 'OK zacks-2983609-2026-09-02', 'all 2 captures intact'. Count matches two visible captures plus manifest; temporary-cache permission warnings also printed. No captures relied upon. Advisory, paper-only. |
 | AVAV | TAKE | £250 | 8 | 8 | AGREED: TAKE — Speculative £250. Claude risk 8; Codex risk 8. Claude: Final: Speculative £250, risk 8 — debate closed on genuine convergence. Dated hurdle ($0.32 non-GAAP EPS/$474.57M rev, Zacks as-of 9/3) is confirmed flat YoY EPS/+4.4% YoY revenue against AVAV's own Q1 FY26 release ($0.32/$454.7M year-ago) — a modest bar after the ~65% drawdown since March's SCAR termination. Against that: verified ~47x FY27 guided adjusted-EPS multiple shows the crash hasn't made this cheap; funded backlog is $1.2B, not $2.7B bookings (corrected exchange 2); GAAP EPS thin/volatile; SCAR securities litigation unresolved; FY27 FCF negative during BlueHalo integration; consensus rose 8.1% in 30 days, not falling. Both sides independently reached identical class, exact size, consensus figure/basis/date and risk score across three consecutive exchanges with zero blocking gaps — resolved reasoning, not a stalemate to keep probing. \| Codex: Maintain Speculative £250, risk 8. FOR: flat YoY EPS and 4.4% revenue growth provide a modest hurdle; the provider-reported monthly selloff suggests some disappointment is reflected. Official LOCUST orders support recovery. AGAINST: approximately 47x guided adjusted EPS, rising consensus and weak cash conversion limit the edge. Durable acquisition economics remain unproven. Recovery potential narrowly merits the £250 floor. No new decision-changing finding. Capture check exited 0: 'OK zacks-2983146-2026-09-01', 'OK zacks-2983609-2026-09-02', then 'all 2 captures intact' with the sources path. Count matches two visible capture files plus manifest; sandbox cache warnings also printed. No captures relied upon. |
 | CASY | NO POSITION | £0 | — | — | Legacy review — exact paper size was not recorded, so it cannot qualify as TAKE under the current bridge. No robust agreement after 4 exchanges. Claude: Speculative; Codex: Unscreenable. Default £0. |
@@ -137,6 +138,8 @@ These are attributed second opinions, not verified facts or locked classificatio
 
 | Agent | Ticker | View | Suggested class | Event risk | Risk drivers | Reviewed | Summary |
 |---|---|---|---|---:|---|---|---|
+| Claude | ADBE | mixed | Speculative | 7 | Surprise CEO transition and Creative-business-head departure add succession/execution uncertainty on top of normal earnings risk; Consensus EPS equals guidance midpoint, leaving thin headroom for a differentiating beat; Modest net debt position adds a small balance-sheet risk dimension not present in a pure net-cash thesis; No verified option-chain implied-move data to calibrate how much of the event is already priced; Ongoing structural AI-disruption overhang on Creative Cloud pricing power and growth durability | 2026-09-10T07:18:31.855460+00:00 | Final: Speculative £250, event risk 7/10, fully converged with Codex on class, exact size and risk score. Case for: durable subscription cash generation ($2.17B Q2 op cash flow), SEC-verified FY26 non-GAAP EPS guide $24.35-24.45 giving a reproducible ~10.4-10.5x multiple, and a real ~13% pre-print drawdown reflecting de-risking. Case against: $6.08 Zacks consensus (dated 2026-09-08, Q3 FY26 ended Aug 2026) sits exactly at guidance midpoint with a Sell rank - no beat-headroom cushion - plus surprise CEO/Creative-head transition adds idiosyncratic execution risk, and net debt (~$1bn) tempers the pure cash thesis. No option-chain data; Section 11 N/A/zero weight. Entry is today's (Sept 10) regular close per Section 2, not yet printed; nothing in the debate substitutes for that mark. Risk/reward clears the Speculative floor but no higher. |
+| Codex | ADBE | positive | Speculative | 7 | Forward guidance and paid AI conversion dominate the headline EPS hurdle.; Leadership transitions increase execution uncertainty.; Low valuation and substantial cash generation provide support, but earnings compression could cause losses beyond the illustrative scenario. | 2026-09-10T07:18:05.797839+00:00 | Maintain Speculative £250, advisory only. Subscription economics and $2.107bn Q2 free cash flow support testing pessimism at $254.86, or 10.45x guided adjusted EPS. Against: unchanged $6.08 quarterly consensus remains near guidance midpoint; falling shares have not lowered the operating hurdle. Upside requires EPS above $6.10, revenue above $6.72bn and convincing paid-AI/forward guidance; below $6.05/$6.67bn or weaker ARR guidance undermines the thesis. Illustrative 12x/10x $24.40 valuations imply $292.80/$244 (+14.9%/-4.3%), not event forecasts or downside limits. Cash generation narrowly wins at the £250 floor; leadership turnover and uncertain AI conversion preclude more. IR still lists September 9 as its latest release; no new supersession identified. Entry remains September 10 regular close, exit September 11 close. |
 | Claude | AEO | positive | Speculative | 8 | Large YoY EPS decline (-53%) already embedded in consensus signals high sensitivity to any incremental margin surprise; Tariff cost pass-through remains an active, unresolved policy risk; Inventory build outpacing unit growth raises markdown/cash-conversion risk into the print; No compliant implied-move benchmark available to size the expected swing | 2026-09-09T17:13:06.613793+00:00 | Hold Speculative £250, risk 8/10 — full convergence with Codex sustained through exchange 4. Governing hurdle: Zacks $0.21 EPS (-53.3% YoY) for Q2 FY2026 (ended ~2026-08-01 per AEO's own SEC 10-Q calendar), unsuperseded since May 28 guidance reaffirmed July 1. FOR: crushed bar, reaffirmed guidance, Aerie +25% comps, ~9.5x forward P/E pricing continued weakness — the disappointment is largely already in the number and the multiple. AGAINST: inventory dollars +27% vs units +5%, tariff drag, CFO transition, price already 22.6% off its 52-wk low (weakens margin-of-safety). No new decision-relevant fact emerged this exchange; reward edges risk only at the floor size, which is where both reviewers now sit. |
 | Codex | AEO | positive | Speculative | 8 | Tariffs and operating leverage amplify margin surprises.; Annual outlook may dominate quarterly beat or miss.; Inventory and leases constrain financial resilience.; Modest valuation offers support without establishing a price floor. | 2026-09-09T17:12:39.186147+00:00 | Maintain Speculative £250, risk 8/10. FOR: $0.21 consensus embeds a 53.3% earnings decline; reaffirmed guidance and Aerie momentum offer a credible relief catalyst at a modest forward valuation. AGAINST: annual recovery expectations, tariffs, inventory and leases limit cash resilience; a quarterly beat may not offset weaker guidance. Reward narrowly merits the floor, with no durable moat established. Capture checker exited 0: 'OK zacks-2983146-2026-09-01', 'OK zacks-2983609-2026-09-02', 'all 2 captures intact'. Count matches two visible captures plus manifest; temporary-cache permission warnings also printed. No captures relied upon. Advisory, paper-only. |
 | Claude | AVAV | mixed | Speculative | 8 | Extreme historical volatility: ~65% drawdown from 52-wk high after March 2026 SCAR termination and goodwill impairment; Demanding ~47x FY27 guided adjusted-EPS multiple leaves little room for disappointment despite the crash; Thin/volatile GAAP EPS against full-year FY27 GAAP guidance of only $0.16-$0.48; Unresolved securities-fraud litigation over SCAR disclosures adds event-adjacent headline risk; No implied-move/options data available to independently size expected reaction | 2026-09-09T17:32:18.409230+00:00 | Final: Speculative £250, risk 8 — debate closed on genuine convergence. Dated hurdle ($0.32 non-GAAP EPS/$474.57M rev, Zacks as-of 9/3) is confirmed flat YoY EPS/+4.4% YoY revenue against AVAV's own Q1 FY26 release ($0.32/$454.7M year-ago) — a modest bar after the ~65% drawdown since March's SCAR termination. Against that: verified ~47x FY27 guided adjusted-EPS multiple shows the crash hasn't made this cheap; funded backlog is $1.2B, not $2.7B bookings (corrected exchange 2); GAAP EPS thin/volatile; SCAR securities litigation unresolved; FY27 FCF negative during BlueHalo integration; consensus rose 8.1% in 30 days, not falling. Both sides independently reached identical class, exact size, consensus figure/basis/date and risk score across three consecutive exchanges with zero blocking gaps — resolved reasoning, not a stalemate to keep probing. |
@@ -164,51 +167,51 @@ These are attributed second opinions, not verified facts or locked classificatio
 
 | Date | Market | Ticker | Company | Event | Calendar timing | Market cap | ADTV 30 | Status | Current action |
 |---|---|---|---|---|---|---:|---:|---|---|
-| 2026-09-07 | UK | ASHM | Ashmore Group plc | final_results | time_not_supplied | £1.54bn | £2.0m | `excluded_adtv` | £0 — not classified |
-| 2026-09-07 | UK | BRWM | BlackRock World Mining Trust plc | interim_results | time_not_supplied | £1.91bn | £3.9m | `excluded_adtv` | £0 — not classified |
+| 2026-09-07 | UK | ASHM | Ashmore Group plc | final_results | time_not_supplied | £1.52bn | £2.0m | `excluded_adtv` | £0 — not classified |
+| 2026-09-07 | UK | BRWM | BlackRock World Mining Trust plc | interim_results | time_not_supplied | £1.94bn | £3.9m | `excluded_adtv` | £0 — not classified |
 | 2026-09-07 | UK | CAD | Cadogan Energy Solutions plc | interim_results | time_not_supplied | £10.1m | N/A | `excluded_market_cap` | £0 — not classified |
 | 2026-09-07 | UK | CHH | Churchill China | interim_results | time_not_supplied | £40.4m | N/A | `excluded_market_cap` | £0 — not classified |
-| 2026-09-07 | UK | CNC | Concurrent Technologies plc | interim_results | time_not_supplied | £241.4m | N/A | `excluded_market_cap` | £0 — not classified |
-| 2026-09-07 | UK | DNM | Dianomi plc | interim_results | time_not_supplied | £8.6m | N/A | `excluded_market_cap` | £0 — not classified |
+| 2026-09-07 | UK | CNC | Concurrent Technologies plc | interim_results | time_not_supplied | £230.5m | N/A | `excluded_market_cap` | £0 — not classified |
+| 2026-09-07 | UK | DNM | Dianomi plc | interim_results | time_not_supplied | £8.9m | N/A | `excluded_market_cap` | £0 — not classified |
 | 2026-09-07 | UK | GAMA | Gamma Communications plc | interim_results | time_not_supplied | £1.05bn | £11.4m | `eligible_for_official_verification` | £0 — not classified |
-| 2026-09-07 | UK | GETB | GetBusy plc | interim_results | time_not_supplied | £38.0m | N/A | `excluded_market_cap` | £0 — not classified |
-| 2026-09-07 | UK | GMS | Gulf Marine Services plc | interim_results | time_not_supplied | £212.0m | N/A | `excluded_market_cap` | £0 — not classified |
-| 2026-09-07 | UK | GRI | Grainger Plc | trading_announcement | time_not_supplied | £1.27bn | £5.0m | `excluded_adtv` | £0 — not classified |
-| 2026-09-07 | UK | IQE | IQE plc | interim_results | time_not_supplied | £638.3m | £6.4m | `eligible_for_official_verification` | £0 — not classified |
-| 2026-09-07 | UK | MPAL | MedPal AI plc | trading_announcement | time_not_supplied | £55.1m | N/A | `excluded_market_cap` | £0 — not classified |
-| 2026-09-07 | UK | SDLF | Standard Life Plc | interim_results | time_not_supplied | £9.58bn | £15.3m | `eligible_for_official_verification` | £0 — not classified |
-| 2026-09-07 | UK | SRC | SigmaRoc plc | interim_results | time_not_supplied | £1.49bn | £4.1m | `excluded_adtv` | £0 — not classified |
+| 2026-09-07 | UK | GETB | GetBusy plc | interim_results | time_not_supplied | £39.0m | N/A | `excluded_market_cap` | £0 — not classified |
+| 2026-09-07 | UK | GMS | Gulf Marine Services plc | interim_results | time_not_supplied | £211.1m | N/A | `excluded_market_cap` | £0 — not classified |
+| 2026-09-07 | UK | GRI | Grainger Plc | trading_announcement | time_not_supplied | £1.25bn | £5.0m | `excluded_adtv` | £0 — not classified |
+| 2026-09-07 | UK | IQE | IQE plc | interim_results | time_not_supplied | £622.3m | £6.4m | `eligible_for_official_verification` | £0 — not classified |
+| 2026-09-07 | UK | MPAL | MedPal AI plc | trading_announcement | time_not_supplied | £52.2m | N/A | `excluded_market_cap` | £0 — not classified |
+| 2026-09-07 | UK | SDLF | Standard Life Plc | interim_results | time_not_supplied | £9.34bn | £15.3m | `eligible_for_official_verification` | £0 — not classified |
+| 2026-09-07 | UK | SRC | SigmaRoc plc | interim_results | time_not_supplied | £1.45bn | £4.1m | `excluded_adtv` | £0 — not classified |
 | 2026-09-07 | UK | TIG | Team Internet Group plc | interim_results | time_not_supplied | £103.4m | N/A | `excluded_market_cap` | £0 — not classified |
-| 2026-09-07 | UK | WRKS | TheWorks Plc | trading_announcement | time_not_supplied | £59.3m | N/A | `excluded_market_cap` | £0 — not classified |
-| 2026-09-07 | UK | XPF | XP Factory Plc | final_results | time_not_supplied | £32.9m | N/A | `excluded_market_cap` | £0 — not classified |
+| 2026-09-07 | UK | WRKS | TheWorks Plc | trading_announcement | time_not_supplied | £57.4m | N/A | `excluded_market_cap` | £0 — not classified |
+| 2026-09-07 | UK | XPF | XP Factory Plc | final_results | time_not_supplied | £32.5m | N/A | `excluded_market_cap` | £0 — not classified |
 | 2026-09-08 | UK | ACRM | Acuity RM Group plc | interim_results | time_not_supplied | £2.2m | N/A | `excluded_market_cap` | £0 — not classified |
-| 2026-09-08 | UK | CCC | Computacenter plc | interim_results | time_not_supplied | £5.95bn | £13.1m | `eligible_for_official_verification` | £0 — not classified |
+| 2026-09-08 | UK | CCC | Computacenter plc | interim_results | time_not_supplied | £5.51bn | £13.1m | `eligible_for_official_verification` | £0 — not classified |
 | 2026-09-08 | UK | CMET | Capital Metals plc | final_results | time_not_supplied | £19.2m | N/A | `excluded_market_cap` | £0 — not classified |
 | 2026-09-08 | UK | CNSL | Cambridge Nutritional Sciences plc | final_results | time_not_supplied | £3.3m | N/A | `excluded_market_cap` | £0 — not classified |
-| 2026-09-08 | UK | CORA | Cora Gold Limited | earnings | time_not_supplied | £75.0m | N/A | `excluded_market_cap` | £0 — not classified |
+| 2026-09-08 | UK | CORA | Cora Gold Limited | earnings | time_not_supplied | £77.7m | N/A | `excluded_market_cap` | £0 — not classified |
 | 2026-09-08 | UK | CRU | Coral Products plc | earnings | time_not_supplied | £4.6m | N/A | `excluded_market_cap` | £0 — not classified |
-| 2026-09-08 | UK | DNLM | Dunelm Group Plc | final_results | time_not_supplied | £1.53bn | £3.6m | `excluded_adtv` | £0 — not classified |
-| 2026-09-08 | UK | FCH | Funding Circle PLC | interim_results | time_not_supplied | £622.2m | £1.8m | `excluded_adtv` | £0 — not classified |
+| 2026-09-08 | UK | DNLM | Dunelm Group Plc | final_results | time_not_supplied | £1.48bn | £3.6m | `excluded_adtv` | £0 — not classified |
+| 2026-09-08 | UK | FCH | Funding Circle PLC | interim_results | time_not_supplied | £584.2m | £1.8m | `excluded_adtv` | £0 — not classified |
 | 2026-09-08 | UK | FEV | Fidelity European Trust plc | interim_results | time_not_supplied | £2.13bn | £2.9m | `excluded_adtv` | £0 — not classified |
 | 2026-09-08 | UK | FLO | Flowtech Fluidpower plc | interim_results | time_not_supplied | £52.9m | N/A | `excluded_market_cap` | £0 — not classified |
-| 2026-09-08 | UK | FSJ | James Fisher & Sons plc | interim_results | time_not_supplied | £230.8m | N/A | `excluded_market_cap` | £0 — not classified |
-| 2026-09-08 | UK | G4M | Gear4Music (Holdings) plc | trading_announcement | time_not_supplied | £56.2m | N/A | `excluded_market_cap` | £0 — not classified |
-| 2026-09-08 | UK | GMR | Gaming Realms plc | earnings | time_not_supplied | £81.5m | N/A | `excluded_market_cap` | £0 — not classified |
-| 2026-09-08 | UK | IHC | Inspiration Healthcare Group Plc | trading_announcement | time_not_supplied | £18.4m | N/A | `excluded_market_cap` | £0 — not classified |
-| 2026-09-08 | UK | ITX | Itaconix plc | interim_results | time_not_supplied | £28.1m | N/A | `excluded_market_cap` | £0 — not classified |
+| 2026-09-08 | UK | FSJ | James Fisher & Sons plc | interim_results | time_not_supplied | £226.2m | N/A | `excluded_market_cap` | £0 — not classified |
+| 2026-09-08 | UK | G4M | Gear4Music (Holdings) plc | trading_announcement | time_not_supplied | £55.7m | N/A | `excluded_market_cap` | £0 — not classified |
+| 2026-09-08 | UK | GMR | Gaming Realms plc | earnings | time_not_supplied | £81.0m | N/A | `excluded_market_cap` | £0 — not classified |
+| 2026-09-08 | UK | IHC | Inspiration Healthcare Group Plc | trading_announcement | time_not_supplied | £17.9m | N/A | `excluded_market_cap` | £0 — not classified |
+| 2026-09-08 | UK | ITX | Itaconix plc | interim_results | time_not_supplied | £26.8m | N/A | `excluded_market_cap` | £0 — not classified |
 | 2026-09-08 | UK | JNEO | Journeo Plc | interim_results | time_not_supplied | £96.0m | N/A | `excluded_market_cap` | £0 — not classified |
-| 2026-09-08 | UK | JSG | Johnson Service Group plc | interim_results | time_not_supplied | £519.1m | £1.4m | `excluded_adtv` | £0 — not classified |
-| 2026-09-08 | UK | MANO | Manolete Partners Plc | trading_announcement | time_not_supplied | £16.3m | N/A | `excluded_market_cap` | £0 — not classified |
-| 2026-09-08 | UK | MCG | Mobico Group plc | trading_announcement | time_not_supplied | £143.6m | N/A | `excluded_market_cap` | £0 — not classified |
-| 2026-09-08 | UK | OMU | Old Mutual Limited | interim_results | time_not_supplied | £55.19bn | £0.2m | `excluded_adtv` | £0 — not classified |
-| 2026-09-08 | UK | PEBB | Pebble Group plc | interim_results | time_not_supplied | £81.2m | N/A | `excluded_market_cap` | £0 — not classified |
-| 2026-09-08 | UK | POLB | Poolbeg Pharma PLC | earnings | time_not_supplied | £63.9m | N/A | `excluded_market_cap` | £0 — not classified |
+| 2026-09-08 | UK | JSG | Johnson Service Group plc | interim_results | time_not_supplied | £485.6m | N/A | `excluded_market_cap` | £0 — not classified |
+| 2026-09-08 | UK | MANO | Manolete Partners Plc | trading_announcement | time_not_supplied | £17.2m | N/A | `excluded_market_cap` | £0 — not classified |
+| 2026-09-08 | UK | MCG | Mobico Group plc | trading_announcement | time_not_supplied | £144.8m | N/A | `excluded_market_cap` | £0 — not classified |
+| 2026-09-08 | UK | OMU | Old Mutual Limited | interim_results | time_not_supplied | £54.85bn | £0.2m | `excluded_adtv` | £0 — not classified |
+| 2026-09-08 | UK | PEBB | Pebble Group plc | interim_results | time_not_supplied | £83.9m | N/A | `excluded_market_cap` | £0 — not classified |
+| 2026-09-08 | UK | POLB | Poolbeg Pharma PLC | earnings | time_not_supplied | £63.7m | N/A | `excluded_market_cap` | £0 — not classified |
 | 2026-09-08 | UK | PRO | Proservice Building Services Marketplace Plc | final_results | time_not_supplied | £19.3m | N/A | `excluded_market_cap` | £0 — not classified |
-| 2026-09-08 | UK | RGL | Regional REIT Ltd | interim_results | time_not_supplied | £153.0m | N/A | `excluded_market_cap` | £0 — not classified |
-| 2026-09-08 | UK | SOM | Somero Enterprises Inc | interim_results | time_not_supplied | £132.0m | N/A | `excluded_market_cap` | £0 — not classified |
-| 2026-09-08 | UK | STVG | STV Group plc | interim_results | time_not_supplied | £52.3m | N/A | `excluded_market_cap` | £0 — not classified |
-| 2026-09-08 | UK | TRI | Trifast | trading_announcement | time_not_supplied | £118.5m | N/A | `excluded_market_cap` | £0 — not classified |
-| 2026-09-08 | UK | UPR | Uniphar plc | interim_results | time_not_supplied | £1.07bn | £0.4m | `excluded_adtv` | £0 — not classified |
+| 2026-09-08 | UK | RGL | Regional REIT Ltd | interim_results | time_not_supplied | £154.0m | N/A | `excluded_market_cap` | £0 — not classified |
+| 2026-09-08 | UK | SOM | Somero Enterprises Inc | interim_results | time_not_supplied | £131.0m | N/A | `excluded_market_cap` | £0 — not classified |
+| 2026-09-08 | UK | STVG | STV Group plc | interim_results | time_not_supplied | £48.1m | N/A | `excluded_market_cap` | £0 — not classified |
+| 2026-09-08 | UK | TRI | Trifast | trading_announcement | time_not_supplied | £117.4m | N/A | `excluded_market_cap` | £0 — not classified |
+| 2026-09-08 | UK | UPR | Uniphar plc | interim_results | time_not_supplied | £1.05bn | £0.4m | `excluded_adtv` | £0 — not classified |
 | 2026-09-08 | UK | VAL | ValiRx plc | earnings | time_not_supplied | £1.9m | N/A | `excluded_market_cap` | £0 — not classified |
 | 2026-09-08 | UK | XSG | Xeros Technology Group plc | interim_results | time_not_supplied | £9.9m | N/A | `excluded_market_cap` | £0 — not classified |
 | 2026-09-08 | US | ABM | ABM Industries Incorporated | earnings | time_not_supplied | $2.96bn | $18.1m | `eligible_for_official_verification` | £0 — not classified |
@@ -235,25 +238,37 @@ These are attributed second opinions, not verified facts or locked classificatio
 | 2026-09-08 | US | UNFI | United Natural Foods, Inc. | earnings | time_not_supplied | $2.72bn | $24.2m | `eligible_for_official_verification` | £0 — not classified |
 | 2026-09-08 | US | WDH | Waterdrop Inc. | earnings | time_not_supplied | $384.5m | N/A | `excluded_market_cap` | £0 — not classified |
 | 2026-09-08 | US | YQ | 17 Education & Technology Group Inc. | earnings | time_not_supplied | $41.1m | N/A | `excluded_market_cap` | £0 — not classified |
-| 2026-09-09 | UK | 88E | 88 Energy Limited | earnings | time_not_supplied | £14.1m | N/A | `excluded_market_cap` | £0 — not classified |
-| 2026-09-09 | UK | ASAI | ASA International Group PLC | earnings | time_not_supplied | £260.0m | N/A | `excluded_market_cap` | £0 — not classified |
-| 2026-09-09 | UK | CNS | Corero Network Security plc | interim_results | time_not_supplied | £42.2m | N/A | `excluded_market_cap` | £0 — not classified |
+| 2026-09-09 | UK | 88E | 88 Energy Limited | earnings | time_not_supplied | £15.0m | N/A | `excluded_market_cap` | £0 — not classified |
+| 2026-09-09 | UK | ANP | Anpario Plc | interim_results | time_not_supplied | £96.2m | N/A | `excluded_market_cap` | £0 — not classified |
+| 2026-09-09 | UK | ASAI | ASA International Group Plc | interim_results | time_not_supplied | £260.0m | N/A | `excluded_market_cap` | £0 — not classified |
+| 2026-09-09 | UK | CAR | Carclo plc | trading_announcement | time_not_supplied | £25.7m | N/A | `excluded_market_cap` | £0 — not classified |
+| 2026-09-09 | UK | CNS | Corero Network Security plc | interim_results | time_not_supplied | £52.5m | N/A | `excluded_market_cap` | £0 — not classified |
+| 2026-09-09 | UK | CRPR | Cropper (James) plc | trading_announcement | time_not_supplied | £52.5m | N/A | `excluded_market_cap` | £0 — not classified |
 | 2026-09-09 | UK | CRTA | Cirata plc | earnings | time_not_supplied | £14.5m | N/A | `excluded_market_cap` | £0 — not classified |
 | 2026-09-09 | UK | ECO | Eco (Atlantic) Oil & Gas Ltd. | earnings | time_not_supplied | £153.9m | N/A | `excluded_market_cap` | £0 — not classified |
-| 2026-09-09 | UK | ENOG | Energean plc | earnings | time_not_supplied | £1.60bn | £3.0m | `excluded_adtv` | £0 — not classified |
-| 2026-09-09 | UK | EWG | W.A.G payment solutions plc | earnings | time_not_supplied | £676.3m | £0.3m | `excluded_adtv` | £0 — not classified |
-| 2026-09-09 | UK | FDEV | Frontier Developments plc | final_results | time_not_supplied | £158.5m | N/A | `excluded_market_cap` | £0 — not classified |
-| 2026-09-09 | UK | GYM | The Gym Group plc | earnings | time_not_supplied | £358.3m | N/A | `excluded_market_cap` | £0 — not classified |
-| 2026-09-09 | UK | LORD | Lords Group Trading PLC | earnings | time_not_supplied | £20.0m | N/A | `excluded_market_cap` | £0 — not classified |
+| 2026-09-09 | UK | ENOG | Energean | interim_results | time_not_supplied | £1.60bn | £3.0m | `excluded_adtv` | £0 — not classified |
+| 2026-09-09 | UK | ESO | EPE Special Opportunities Limited | interim_results | time_not_supplied | £51.7m | N/A | `excluded_market_cap` | £0 — not classified |
+| 2026-09-09 | UK | EWG | WAG Payment Solutions plc | interim_results | time_not_supplied | £676.3m | £0.3m | `excluded_adtv` | £0 — not classified |
+| 2026-09-09 | UK | FDEV | Frontier Developments plc | final_results | time_not_supplied | £183.7m | N/A | `excluded_market_cap` | £0 — not classified |
+| 2026-09-09 | UK | GYM | Gym Group plc | interim_results | time_not_supplied | £364.4m | N/A | `excluded_market_cap` | £0 — not classified |
+| 2026-09-09 | UK | HHI | Henderson High Income Trust plc | interim_results | time_not_supplied | £347.5m | N/A | `excluded_market_cap` | £0 — not classified |
+| 2026-09-09 | UK | HWG | Harworth Group plc | interim_results | time_not_supplied | £577.4m | £0.7m | `excluded_adtv` | £0 — not classified |
+| 2026-09-09 | UK | HYG | Seneca Growth Capital VCT Plc | interim_results | time_not_supplied | £0.6m | N/A | `excluded_market_cap` | £0 — not classified |
+| 2026-09-09 | UK | LORD | Lords Group Trading PLC | earnings | time_not_supplied | £20.2m | N/A | `excluded_market_cap` | £0 — not classified |
+| 2026-09-09 | UK | MAB1 | Mortgage Advice Bureau (Holdings) Ltd | trading_announcement | time_not_supplied | £225.8m | N/A | `excluded_market_cap` | £0 — not classified |
+| 2026-09-09 | UK | MUT | Murray Income Trust plc | final_results | time_not_supplied | £920.1m | £1.0m | `excluded_adtv` | £0 — not classified |
 | 2026-09-09 | UK | NEWS | Pathos Communications plc | interim_results | time_not_supplied | N/A | N/A | `pending_market_cap` | £0 — not classified |
-| 2026-09-09 | UK | NXQ | Nexteq plc | interim_results | time_not_supplied | £27.1m | N/A | `excluded_market_cap` | £0 — not classified |
+| 2026-09-09 | UK | NXQ | Nexteq plc | interim_results | time_not_supplied | £25.5m | N/A | `excluded_market_cap` | £0 — not classified |
 | 2026-09-09 | UK | OCI | Oakley Capital Investments Ltd | interim_results | time_not_supplied | £863.0m | £0.9m | `excluded_adtv` | £0 — not classified |
+| 2026-09-09 | UK | PEB | Pebble Beach Systems Group plc | interim_results | time_not_supplied | £32.9m | N/A | `excluded_market_cap` | £0 — not classified |
 | 2026-09-09 | UK | POLN | Pollen Street Group Limited | earnings | time_not_supplied | £491.4m | N/A | `excluded_market_cap` | £0 — not classified |
-| 2026-09-09 | UK | SPI | Spire Healthcare Group plc | interim_results | time_not_supplied | £986.8m | £3.1m | `excluded_adtv` | £0 — not classified |
-| 2026-09-09 | UK | SRB | Serabi Gold plc | earnings | time_not_supplied | £219.3m | N/A | `excluded_market_cap` | £0 — not classified |
+| 2026-09-09 | UK | SPI | Spire Healthcare Group plc | interim_results | time_not_supplied | £990.8m | £3.1m | `excluded_adtv` | £0 — not classified |
+| 2026-09-09 | UK | SRB | Serabi Gold plc | earnings | time_not_supplied | £225.1m | N/A | `excluded_market_cap` | £0 — not classified |
+| 2026-09-09 | UK | STCM | Steppe Cement | interim_results | time_not_supplied | £53.7m | N/A | `excluded_market_cap` | £0 — not classified |
 | 2026-09-09 | UK | SUNB | Sunbelt Rentals Holdings Inc | earnings | time_not_supplied | £23.29bn | £122.2m | `eligible_for_official_verification` | £0 — not classified |
 | 2026-09-09 | UK | TPFG | Property Franchise Group (The) | interim_results | time_not_supplied | £286.9m | N/A | `excluded_market_cap` | £0 — not classified |
-| 2026-09-09 | UK | WINK | M Winkworth PLC | earnings | time_not_supplied | £21.3m | N/A | `excluded_market_cap` | £0 — not classified |
+| 2026-09-09 | UK | VCT | Victrex | trading_announcement | time_not_supplied | £880.3m | £2.0m | `excluded_adtv` | £0 — not classified |
+| 2026-09-09 | UK | WINK | M Winkworth PLC | earnings | time_not_supplied | £22.3m | N/A | `excluded_market_cap` | £0 — not classified |
 | 2026-09-09 | US | AACG | ATA Creativity Global | earnings | time_not_supplied | $65.0m | N/A | `excluded_market_cap` | £0 — not classified |
 | 2026-09-09 | US | AEO | American Eagle Outfitters, Inc. | earnings | AMC_verified | $2.89bn | $76.5m | `eligible_for_official_verification` | £0 — not classified |
 | 2026-09-09 | US | ALZN | Alzamend Neuro, Inc. | earnings | time_not_supplied | $8.1m | N/A | `excluded_market_cap` | £0 — not classified |
@@ -295,19 +310,19 @@ These are attributed second opinions, not verified facts or locked classificatio
 | 2026-09-09 | US | SJ | Scienjoy Holding Corporation | earnings | time_not_supplied | $33.9m | N/A | `excluded_market_cap` | £0 — not classified |
 | 2026-09-09 | US | SKIL | Skillsoft Corp. | earnings | AMC_unverified | $59.8m | N/A | `excluded_market_cap` | £0 — not classified |
 | 2026-09-09 | US | WLTH | Wealthfront Corporation | earnings | AMC_unverified | $1.44bn | $9.9m | `eligible_for_official_verification` | £0 — not classified |
-| 2026-09-10 | UK | ABF | Associated British Foods plc | trading_announcement | time_not_supplied | £14.33bn | £15.7m | `eligible_for_official_verification` | £0 — not classified |
+| 2026-09-10 | UK | ABF | Associated British Foods plc | trading_announcement | time_not_supplied | £14.20bn | £15.7m | `eligible_for_official_verification` | £0 — not classified |
 | 2026-09-10 | UK | CHSS | World Chess PLC | earnings | time_not_supplied | £4.9m | N/A | `excluded_market_cap` | £0 — not classified |
-| 2026-09-10 | UK | CURY | Currys plc | trading_announcement | time_not_supplied | £1.68bn | £7.1m | `eligible_for_official_verification` | £0 — not classified |
-| 2026-09-10 | UK | DFCH | Distribution Finance Capital Holdings plc | interim_results | time_not_supplied | £127.0m | N/A | `excluded_market_cap` | £0 — not classified |
+| 2026-09-10 | UK | CURY | Currys plc | trading_announcement | time_not_supplied | £1.64bn | £7.1m | `eligible_for_official_verification` | £0 — not classified |
+| 2026-09-10 | UK | DFCH | Distribution Finance Capital Holdings plc | interim_results | time_not_supplied | £129.3m | N/A | `excluded_market_cap` | £0 — not classified |
 | 2026-09-10 | UK | FEVR | Fevertree Drinks PLC | earnings | time_not_supplied | £918.5m | £2.2m | `excluded_adtv` | £0 — not classified |
 | 2026-09-10 | UK | GLV | Glenveagh Properties Plc | interim_results | time_not_supplied | £1.26bn | N/A | `pending_currency_basis` | £0 — not classified |
-| 2026-09-10 | UK | GNS | Genus plc | final_results | time_not_supplied | £1.52bn | £2.7m | `excluded_adtv` | £0 — not classified |
-| 2026-09-10 | UK | INPP | International Public Partnerships Limited | interim_results | time_not_supplied | £2.47bn | £3.9m | `excluded_adtv` | £0 — not classified |
+| 2026-09-10 | UK | GNS | Genus plc | final_results | time_not_supplied | £1.49bn | £2.7m | `excluded_adtv` | £0 — not classified |
+| 2026-09-10 | UK | INPP | International Public Partnerships Limited | interim_results | time_not_supplied | £2.48bn | £3.9m | `excluded_adtv` | £0 — not classified |
 | 2026-09-10 | UK | ITM | ITM Power Plc | earnings | time_not_supplied | £752.3m | £2.3m | `excluded_adtv` | £0 — not classified |
 | 2026-09-10 | UK | OCI | Oakley Capital Investments Ltd | interim_results | time_not_supplied | £863.0m | £0.9m | `excluded_adtv` | £0 — not classified |
-| 2026-09-10 | UK | PMP | Portmeirion Group PLC | earnings | time_not_supplied | £25.9m | N/A | `excluded_market_cap` | £0 — not classified |
-| 2026-09-10 | UK | PTEC | Playtech plc | interim_results | time_not_supplied | £1.25bn | £2.0m | `excluded_adtv` | £0 — not classified |
-| 2026-09-10 | UK | THG | THG Plc | earnings | time_not_supplied | £503.0m | £1.2m | `excluded_adtv` | £0 — not classified |
+| 2026-09-10 | UK | PMP | Portmeirion Group PLC | earnings | time_not_supplied | £26.4m | N/A | `excluded_market_cap` | £0 — not classified |
+| 2026-09-10 | UK | PTEC | Playtech plc | interim_results | time_not_supplied | £1.23bn | £2.0m | `excluded_adtv` | £0 — not classified |
+| 2026-09-10 | UK | THG | THG plc | interim_results | time_not_supplied | £537.4m | £1.2m | `excluded_adtv` | £0 — not classified |
 | 2026-09-10 | US | ADBE | Adobe Inc. | earnings | AMC_verified | $102.26bn | $1.28bn | `eligible_for_official_verification` | £0 — not classified |
 | 2026-09-10 | US | AENT | Alliance Entertainment Holding Corporation | earnings | AMC_unverified | $277.8m | N/A | `excluded_market_cap` | £0 — not classified |
 | 2026-09-10 | US | ALAR | Alarum Technologies Ltd. | earnings | time_not_supplied | $11.5m | N/A | `excluded_market_cap` | £0 — not classified |
@@ -347,11 +362,11 @@ These are attributed second opinions, not verified facts or locked classificatio
 | 2026-09-10 | US | YB | Yuanbao Inc. | earnings | BMO_unverified | $621.4m | $0.3m | `excluded_adtv` | £0 — not classified |
 | 2026-09-10 | US | YRD | Yiren Digital Ltd. | earnings | time_not_supplied | $84.3m | N/A | `excluded_market_cap` | £0 — not classified |
 | 2026-09-10 | US | ZUMZ | Zumiez Inc. | earnings | AMC_unverified | $298.6m | N/A | `excluded_market_cap` | £0 — not classified |
-| 2026-09-11 | UK | BKG | The Berkeley Group Holdings plc | trading_announcement | time_not_supplied | £3.12bn | £7.3m | `eligible_for_official_verification` | £0 — not classified |
-| 2026-09-11 | UK | IDHC | Integrated Diagnostics Holdings Plc | interim_results | time_not_supplied | $307.5m | N/A | `excluded_market_cap` | £0 — not classified |
+| 2026-09-11 | UK | BKG | The Berkeley Group Holdings plc | trading_announcement | time_not_supplied | £3.06bn | £7.3m | `eligible_for_official_verification` | £0 — not classified |
+| 2026-09-11 | UK | IDHC | Integrated Diagnostics Holdings Plc | interim_results | time_not_supplied | $313.9m | N/A | `excluded_market_cap` | £0 — not classified |
 | 2026-09-11 | UK | PEG | Petards Group plc | interim_results | time_not_supplied | £6.1m | N/A | `excluded_market_cap` | £0 — not classified |
 | 2026-09-11 | UK | PYX | PYX Resources Limited | earnings | time_not_supplied | £1.2m | N/A | `excluded_market_cap` | £0 — not classified |
-| 2026-09-11 | UK | SOU | Sound Energy plc | earnings | time_not_supplied | £3.7m | N/A | `excluded_market_cap` | £0 — not classified |
+| 2026-09-11 | UK | SOU | Sound Energy plc | earnings | time_not_supplied | £3.9m | N/A | `excluded_market_cap` | £0 — not classified |
 | 2026-09-11 | US | CELU | Celularity Inc. | earnings | time_not_supplied | $44.6m | N/A | `excluded_market_cap` | £0 — not classified |
 | 2026-09-11 | US | CMCM | Cheetah Mobile Inc. | earnings | BMO_unverified | $108.8m | N/A | `excluded_market_cap` | £0 — not classified |
 | 2026-09-11 | US | ENLV | Enlivex Ltd. | earnings | time_not_supplied | $19.4m | N/A | `excluded_market_cap` | £0 — not classified |

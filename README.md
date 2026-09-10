@@ -11,6 +11,19 @@ paper pot is notional.
 - `current-daily-coverage.md` — current and next-week deadlines, analyst coverage and explicit gaps
 - `<date>.md` — the analyst reconciliation report for that run
 - `requests/<id>-<ticker>.md` — the result of a company-check request
+- `requests/<id>-screen-refresh.md` — the result of a screen-refresh request
+
+## Asking for something
+
+Open an issue using one of the templates. **Company research request** looks at
+one named company; **Screen refresh** reruns the mechanical pipeline across the
+whole calendar and takes no ticker.
+
+A request carries no classification, no allocation and no authority to trade.
+It cannot alter the ledger and it cannot skip a methodology gate. A screen
+refresh in particular calls no analyst and assigns nothing: mechanical
+eligibility means a name cleared the market cap and liquidity floors and has a
+scheduled event, which is not a view on whether it is worth anything.
 
 Portfolio reviews are **never published here**. They describe named people's
 accounts and holdings, and no redaction of figures makes that suitable for a
@@ -23,7 +36,7 @@ methodology, ledger and decision seals stay private; this repository holds
 only the finished reports. Portfolio quantities, costs, cash and market values
 remain in the private frozen pack and are not published.
 
-Last published 2026-09-09T19:09:38.125870+00:00.
+Last published 2026-09-10T07:38:43.233938+00:00.
 
 ---
 

@@ -2,7 +2,7 @@
 
 # Earnings decision report — casy-2026-09-08-initial
 
-Generated 2026-09-09T19:08:19.253814+00:00.
+Generated 2026-09-10T07:30:21.286032+00:00.
 
 **Analysts**
 
@@ -39,7 +39,12 @@ Derived from recorded allocations and sourced closes. A figure that cannot be re
 
 ## REJECTION AUDIT
 
-No rejected names have resolved yet.
+| Name | Outcome | Basis |
+|---|---:|---|
+| CASY · claude_code | avoided loss -14.2415% | percentage only: no hypothetical size was frozen before the event |
+| CASY · codex_cli | avoided loss -14.2415% (£-71.21 hypothetical) | hypothetical size frozen before the event |
+
+Percentage only unless a hypothetical size was frozen beforehand. A rejected name never enters the money ledger.
 
 
 ## Latest pre-cutoff views

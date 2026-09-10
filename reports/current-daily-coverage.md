@@ -2,40 +2,25 @@
 
 # Daily event coverage
 
-Checked 2026-09-09T19:08:19.175234+00:00
+Checked 2026-09-10T07:30:21.205004+00:00
 
 Current and next-week queues; paper research only. Original allocation evidence controls P/L. A saved recommendation is not itself a funded V2 position.
 
 | Event | Company | Timing/deadline | Claude opening | Codex opening | Debate / coverage |
 |---|---|---|---|---|---|
-| 2026-09-09 | SUNB (UK) | time not supplied / UK planning deadline passed schedule unverified | Not reviewed | Not reviewed | not reviewed |
-| 2026-09-09 | AEO (US) | AMC verified / before entry | Speculative £300 | Speculative £250 | Speculative £250 |
-| 2026-09-09 | ANAB (US) | time not supplied / schedule unverified | Not reviewed | Not reviewed | not reviewed |
-| 2026-09-09 | ASO (US) | BMO unverified / BMO planning deadline passed schedule unverified | Not reviewed | Not reviewed | not reviewed |
-| 2026-09-09 | AVAV (US) | AMC verified / before entry | Speculative £250 | Speculative £250 | Speculative £250 |
-| 2026-09-09 | CHWY (US) | BMO verified / entry cutoff passed | Not reviewed | Not reviewed | not reviewed |
-| 2026-09-09 | CNM (US) | BMO unverified / BMO planning deadline passed schedule unverified | Not reviewed | Not reviewed | not reviewed |
-| 2026-09-09 | COO (US) | AMC verified / before entry | Speculative £250 | Speculative £250 | Speculative £250 |
-| 2026-09-09 | KFY (US) | BMO unverified / BMO planning deadline passed schedule unverified | Not reviewed | Not reviewed | not reviewed |
-| 2026-09-09 | NAVN (US) | AMC verified / before entry | Avoid £0 (declared input gaps) | Speculative £250 | Speculative £250 |
-| 2026-09-09 | ODD (US) | BMO unverified / BMO planning deadline passed schedule unverified | Not reviewed | Not reviewed | not reviewed |
-| 2026-09-09 | SA (US) | time not supplied / schedule unverified | Not reviewed | Not reviewed | not reviewed |
-| 2026-09-09 | SAIL (US) | BMO verified / entry cutoff passed | Not reviewed | Not reviewed | not reviewed |
-| 2026-09-09 | SIG (US) | BMO unverified / BMO planning deadline passed schedule unverified | Not reviewed | Not reviewed | not reviewed |
-| 2026-09-09 | WLTH (US) | AMC unverified / schedule unverified | Not reviewed | Not reviewed | not reviewed |
 | 2026-09-10 | ABF (UK) | time not supplied / UK planning deadline passed schedule unverified | Not reviewed | Not reviewed | not reviewed |
 | 2026-09-10 | CURY (UK) | time not supplied / UK planning deadline passed schedule unverified | Not reviewed | Not reviewed | not reviewed |
-| 2026-09-10 | ADBE (US) | AMC verified / before entry | Not reviewed | Not reviewed | not reviewed |
-| 2026-09-10 | CPRT (US) | AMC verified / before entry | Not reviewed | Not reviewed | not reviewed |
+| 2026-09-10 | ADBE (US) | AMC verified / before entry | Speculative £300 | Speculative £250 | Speculative £250 |
+| 2026-09-10 | CPRT (US) | AMC verified / before entry | Speculative £250 | Unscreenable £0 | in progress |
 | 2026-09-10 | DSGX (US) | AMC verified / before entry | Not reviewed | Not reviewed | not reviewed |
 | 2026-09-10 | FEIM (US) | AMC unverified / schedule unverified | Not reviewed | Not reviewed | not reviewed |
 | 2026-09-10 | FIZZ (US) | time not supplied / schedule unverified | Not reviewed | Not reviewed | not reviewed |
 | 2026-09-10 | HUBG (US) | time not supplied / schedule unverified | Not reviewed | Not reviewed | not reviewed |
 | 2026-09-10 | LPTH (US) | AMC unverified / schedule unverified | Not reviewed | Not reviewed | not reviewed |
-| 2026-09-10 | M (US) | BMO unverified / schedule unverified | Speculative £250 | Unscreenable £0 | Unscreenable £0 |
+| 2026-09-10 | M (US) | BMO unverified / BMO planning deadline passed schedule unverified | Speculative £250 | Unscreenable £0 | Unscreenable £0 |
 | 2026-09-10 | ORCL (US) | AMC verified / before entry | Watch £? | Unscreenable £? | Unscreenable £? |
 | 2026-09-10 | RH (US) | AMC verified / before entry | Not reviewed | Not reviewed | not reviewed |
-| 2026-09-10 | TEN (US) | BMO verified / before entry | Unscreenable £0 | Unscreenable £0 | Unscreenable £0 |
+| 2026-09-10 | TEN (US) | BMO verified / entry cutoff passed | Unscreenable £0 | Unscreenable £0 | Unscreenable £0 |
 | 2026-09-10 | UROY (US) | time not supplied / schedule unverified | Not reviewed | Not reviewed | not reviewed |
 | 2026-09-11 | BKG (UK) | time not supplied / schedule unverified | Not reviewed | Not reviewed | not reviewed |
 | 2026-09-11 | KR (US) | BMO unverified / schedule unverified | Not reviewed | Not reviewed | not reviewed |
@@ -50,38 +35,12 @@ Current and next-week queues; paper research only. Original allocation evidence 
 | 2026-09-16 | CBRL (US) | time not supplied / schedule unverified | Not reviewed | Not reviewed | not reviewed |
 | 2026-09-16 | LEN (US) | AMC verified / before entry | Not reviewed | Not reviewed | not reviewed |
 | 2026-09-16 | MANU (US) | time not supplied / schedule unverified | Not reviewed | Not reviewed | not reviewed |
+| 2026-09-17 | NXT (UK) | time not supplied / schedule unverified | Not reviewed | Not reviewed | not reviewed |
 
 ## Mechanical exclusions and data gaps
 
 | Event | Company | Screen disposition |
 |---|---|---|
-| 2026-09-09 | JMKE (US) | pending price data |
-| 2026-09-09 | CGNT (US) | excluded adtv |
-| 2026-09-09 | HTT (US) | excluded market cap |
-| 2026-09-09 | CAL (US) | excluded market cap |
-| 2026-09-09 | LSAK (US) | excluded market cap |
-| 2026-09-09 | GLOO (US) | excluded market cap |
-| 2026-09-09 | JILL (US) | excluded market cap |
-| 2026-09-09 | LMNR (US) | excluded market cap |
-| 2026-09-09 | NBP (US) | excluded market cap |
-| 2026-09-09 | RYDE (US) | excluded market cap |
-| 2026-09-09 | OCC (US) | excluded market cap |
-| 2026-09-09 | LAKE (US) | excluded market cap |
-| 2026-09-09 | KEQU (US) | excluded market cap |
-| 2026-09-09 | ANIX (US) | excluded market cap |
-| 2026-09-09 | COE (US) | excluded market cap |
-| 2026-09-09 | NNOX (US) | excluded market cap |
-| 2026-09-09 | AACG (US) | excluded market cap |
-| 2026-09-09 | SKIL (US) | excluded market cap |
-| 2026-09-09 | CULP (US) | excluded market cap |
-| 2026-09-09 | SJ (US) | excluded market cap |
-| 2026-09-09 | ATCH (US) | excluded market cap |
-| 2026-09-09 | PTN (US) | excluded market cap |
-| 2026-09-09 | GAUZ (US) | excluded market cap |
-| 2026-09-09 | ALZN (US) | excluded market cap |
-| 2026-09-09 | CLGN (US) | excluded market cap |
-| 2026-09-09 | GURE (US) | excluded market cap |
-| 2026-09-09 | LKSP (US) | pending market cap |
 | 2026-09-10 | VFS (US) | excluded adtv |
 | 2026-09-10 | REF (US) | pending price data |
 | 2026-09-10 | YB (US) | excluded adtv |
@@ -123,39 +82,21 @@ Current and next-week queues; paper research only. Original allocation evidence 
 | 2026-09-11 | LNAI (US) | excluded market cap |
 | 2026-09-11 | TPET (US) | excluded market cap |
 | 2026-09-11 | GITS (US) | excluded market cap |
-| 2026-09-09 | CNS (UK) | excluded market cap |
-| 2026-09-09 | NXQ (UK) | excluded market cap |
-| 2026-09-09 | OCI (UK) | excluded adtv |
-| 2026-09-09 | NEWS (UK) | pending market cap |
-| 2026-09-09 | TPFG (UK) | excluded market cap |
-| 2026-09-09 | SPI (UK) | excluded adtv |
-| 2026-09-09 | FDEV (UK) | excluded market cap |
 | 2026-09-10 | DFCH (UK) | excluded market cap |
 | 2026-09-10 | GLV (UK) | pending currency basis |
 | 2026-09-10 | INPP (UK) | excluded adtv |
 | 2026-09-10 | OCI (UK) | excluded adtv |
 | 2026-09-10 | PTEC (UK) | excluded adtv |
+| 2026-09-10 | THG (UK) | excluded adtv |
 | 2026-09-10 | GNS (UK) | excluded adtv |
 | 2026-09-11 | IDHC (UK) | excluded market cap |
 | 2026-09-11 | PEG (UK) | excluded market cap |
-| 2026-09-11 | PYX (UK) | excluded market cap |
 | 2026-09-11 | SOU (UK) | excluded market cap |
+| 2026-09-11 | PYX (UK) | excluded market cap |
 | 2026-09-10 | CHSS (UK) | excluded market cap |
-| 2026-09-10 | ITM (UK) | excluded adtv |
-| 2026-09-10 | FEVR (UK) | excluded adtv |
-| 2026-09-10 | THG (UK) | excluded adtv |
 | 2026-09-10 | PMP (UK) | excluded market cap |
-| 2026-09-09 | WINK (UK) | excluded market cap |
-| 2026-09-09 | 88E (UK) | excluded market cap |
-| 2026-09-09 | CRTA (UK) | excluded market cap |
-| 2026-09-09 | SRB (UK) | excluded market cap |
-| 2026-09-09 | EWG (UK) | excluded adtv |
-| 2026-09-09 | GYM (UK) | excluded market cap |
-| 2026-09-09 | ENOG (UK) | excluded adtv |
-| 2026-09-09 | ECO (UK) | excluded market cap |
-| 2026-09-09 | POLN (UK) | excluded market cap |
-| 2026-09-09 | ASAI (UK) | excluded market cap |
-| 2026-09-09 | LORD (UK) | excluded market cap |
+| 2026-09-10 | FEVR (UK) | excluded adtv |
+| 2026-09-10 | ITM (UK) | excluded adtv |
 | 2026-09-14 | GRFS (US) | excluded adtv |
 | 2026-09-14 | CHRN (US) | excluded adtv |
 | 2026-09-14 | CURR (US) | excluded market cap |
@@ -193,14 +134,19 @@ Current and next-week queues; paper research only. Original allocation evidence 
 | 2026-09-16 | DSWL (US) | excluded market cap |
 | 2026-09-16 | YI (US) | excluded market cap |
 | 2026-09-16 | PLUR (US) | excluded market cap |
+| 2026-09-17 | ABAT (US) | excluded market cap |
+| 2026-09-17 | IPHA (US) | excluded market cap |
+| 2026-09-17 | RSSS (US) | excluded market cap |
+| 2026-09-17 | IH (US) | excluded market cap |
 | 2026-09-14 | BIG (UK) | excluded market cap |
-| 2026-09-14 | DATA (UK) | excluded adtv |
+| 2026-09-14 | DATA (UK) | excluded market cap |
 | 2026-09-14 | GRP (UK) | pending currency basis |
 | 2026-09-14 | HGT (UK) | excluded adtv |
 | 2026-09-14 | KEYS (UK) | excluded market cap |
 | 2026-09-14 | MPE (UK) | excluded adtv |
 | 2026-09-14 | RTW (UK) | excluded adtv |
 | 2026-09-14 | PWR (UK) | excluded market cap |
+| 2026-09-14 | FAB (UK) | excluded market cap |
 | 2026-09-15 | ACSO (UK) | excluded market cap |
 | 2026-09-15 | EKF (UK) | excluded market cap |
 | 2026-09-15 | EVPL (UK) | excluded market cap |
@@ -217,35 +163,50 @@ Current and next-week queues; paper research only. Original allocation evidence 
 | 2026-09-15 | SPR (UK) | excluded market cap |
 | 2026-09-16 | AMCO (UK) | excluded market cap |
 | 2026-09-16 | ART (UK) | excluded market cap |
+| 2026-09-16 | ADF (UK) | excluded market cap |
 | 2026-09-16 | FIN (UK) | excluded market cap |
 | 2026-09-16 | MOON (UK) | excluded adtv |
 | 2026-09-16 | CLIG (UK) | excluded market cap |
 | 2026-09-16 | SUPR (UK) | pending market cap |
-| 2026-09-16 | SYM (UK) | excluded market cap |
-| 2026-09-16 | ANP (UK) | excluded market cap |
-| 2026-09-16 | TST (UK) | excluded market cap |
+| 2026-09-17 | TBTG (UK) | excluded market cap |
+| 2026-09-17 | TRU (UK) | excluded market cap |
+| 2026-09-17 | LABS (UK) | excluded market cap |
+| 2026-09-17 | JOG (UK) | excluded market cap |
+| 2026-09-17 | CKT (UK) | excluded market cap |
+| 2026-09-17 | GFRD (UK) | excluded adtv |
+| 2026-09-17 | EBQ (UK) | excluded market cap |
+| 2026-09-17 | NFG (UK) | excluded market cap |
+| 2026-09-17 | WATR (UK) | excluded market cap |
+| 2026-09-17 | SYN (UK) | excluded market cap |
+| 2026-09-17 | MATD (UK) | excluded market cap |
+| 2026-09-17 | RE-B (UK) | excluded market cap |
+| 2026-09-17 | RE (UK) | excluded market cap |
+| 2026-09-17 | ITIM (UK) | excluded market cap |
+| 2026-09-17 | ENET (UK) | excluded market cap |
 | 2026-09-16 | PHAR (UK) | excluded market cap |
 | 2026-09-16 | SUN (UK) | excluded market cap |
-| 2026-09-15 | SFOR (UK) | excluded market cap |
-| 2026-09-15 | IPO (UK) | excluded adtv |
+| 2026-09-16 | TST (UK) | excluded market cap |
+| 2026-09-16 | SYM (UK) | excluded market cap |
 | 2026-09-15 | LSL (UK) | excluded market cap |
+| 2026-09-15 | MCB (UK) | excluded market cap |
+| 2026-09-15 | HEAD (UK) | excluded market cap |
 | 2026-09-15 | WIX (UK) | excluded market cap |
+| 2026-09-15 | IPO (UK) | excluded adtv |
+| 2026-09-15 | SFOR (UK) | excluded market cap |
+| 2026-09-15 | ALU (UK) | excluded market cap |
 | 2026-09-15 | TRST (UK) | excluded adtv |
 | 2026-09-15 | LUCE (UK) | excluded market cap |
-| 2026-09-15 | KP2 (UK) | excluded market cap |
 | 2026-09-15 | GFM (UK) | excluded adtv |
 | 2026-09-15 | MTEC (UK) | excluded market cap |
 | 2026-09-15 | ELCO (UK) | excluded market cap |
+| 2026-09-15 | KP2 (UK) | excluded market cap |
 | 2026-09-15 | ARC (UK) | excluded market cap |
 | 2026-09-15 | EXR (UK) | excluded market cap |
-| 2026-09-15 | MCB (UK) | excluded market cap |
-| 2026-09-15 | HEAD (UK) | excluded market cap |
-| 2026-09-15 | ALU (UK) | excluded market cap |
-| 2026-09-14 | VRCI (UK) | excluded market cap |
 | 2026-09-14 | UJO (UK) | excluded market cap |
-| 2026-09-14 | SRC (UK) | excluded adtv |
-| 2026-09-14 | VAL (UK) | excluded market cap |
 | 2026-09-14 | SPSC (UK) | excluded market cap |
+| 2026-09-14 | SRC (UK) | excluded adtv |
+| 2026-09-14 | VRCI (UK) | excluded market cap |
+| 2026-09-14 | VAL (UK) | excluded market cap |
 
 Not reviewed, interrupted, unverified timing and elapsed cutoffs are coverage gaps, not conviction-based Watch decisions.
 An opening tagged "declared input gaps" preserves an inconsistent original Watch/Avoid label; it is not evidence of a fully assessed conviction-based rejection. Later debate cannot rewrite that opening.
