@@ -36,7 +36,7 @@ methodology, ledger and decision seals stay private; this repository holds
 only the finished reports. Portfolio quantities, costs, cash and market values
 remain in the private frozen pack and are not published.
 
-Last published 2026-09-10T14:09:21.359750+00:00.
+Last published 2026-09-11T13:18:50.892050+00:00.
 
 ---
 

@@ -2,7 +2,7 @@
 
 # Earnings decision report — casy-2026-09-08-initial
 
-Generated 2026-09-10T14:09:21.072552+00:00.
+Generated 2026-09-11T13:18:50.701946+00:00.
 
 **Analysts**
 
